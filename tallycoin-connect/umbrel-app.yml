@@ -3,8 +3,8 @@ id: tallycoin-connect
 category: Finance
 name: Tallycoin Connect
 version: "1.8.0"
-tagline: Crowdfund donations directly to your Umbrel node with Tallycoin.
-description: Tallycoin is a crowdfunding platform with bitcoin and lightning donations. Together with the Tallycoin Connect app, you can receive donations directly to your Umbrel node. Zero fees!
+tagline: Краудфандинговые сборы прямо на ваш узел Портала с помощью Tallycoin.
+description: Tallycoin — это краудфандинговая платформа с биткойнами и быстрыми сборами. Вместе с приложением Tallycoin Connect вы можете получать сборы прямо на свой узел Портала.
 developer: djbooth007
 website: https://tallycoin.app/connect/
 dependencies:
