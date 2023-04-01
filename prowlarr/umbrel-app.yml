@@ -21,7 +21,7 @@ path: ""
 defaultUsername: ""
 defaultPassword: ""
 releaseNotes: >-
-  On installation of Sonarr, Lidarr or Radarr, Prowlarr will now automatically setup the app's connection within its settings
+  При установке Sonarr, Lidarr или Radarr Prowlarr теперь автоматически устанавливает соединение приложения в своих настройках
 torOnly: false
 permissions:
   - STORAGE_DOWNLOADSsubmitter: Umbrel
