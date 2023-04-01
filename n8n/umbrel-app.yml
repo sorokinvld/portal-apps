@@ -4,31 +4,30 @@ category: Automation
 name: n8n
 version: "0.212.0"
 releaseNotes: >-
-  - New features
-    - Inline expression editor: You can now quickly write expressions inline in a node parameter
-    - Workflow sharing:  With workflow sharing, users can invite other users on the same n8n instance to use and edit their workflows
-    - Log streaming: Log streaming allows you to send events from n8n to your own logging tools
-    - Security audit: You can now run a security audit on your n8n instance, to detect common security issues
-    - Typeahead for expressions: When using expressions, n8n will now offer you suggestions as you type
-    - Editor: Improve UX for brace completion in the inline expressions editor
-    - Editor: pressing = in an empty parameter input switches to expression mode
+  Новые возможности
+     - Редактор встроенных выражений: теперь вы можете быстро писать выражения, встроенные в параметр узла.
+     - Совместное использование рабочего процесса: благодаря совместному использованию рабочего процесса пользователи могут приглашать других пользователей на тот же экземпляр n8n для использования и редактирования своих рабочих процессов.
+     - Потоковая передача журнала: потоковая передача журнала позволяет отправлять события из n8n в ваши собственные инструменты ведения журнала.
+     - Аудит безопасности: теперь вы можете запустить аудит безопасности на своем экземпляре n8n, чтобы обнаружить распространенные проблемы безопасности.
+     - Упреждающий ввод для выражений: при использовании выражений n8n теперь будет предлагать вам предложения по мере ввода.
+     - Редактор: улучшен UX для завершения фигурных скобок в встроенном редакторе выражений.
+     - Редактор: нажатие = при вводе пустого параметра переключает в режим выражения
 
-  - New nodes
-    - Open AI - This release adds an integration with OpenAI
-    - Google Sheets trigger: You can now start workflows in response to row changes or new rows in a Google Sheet
+   - Новые узлы
+     - Open AI - В этом выпуске добавлена интеграция с OpenAI.
+     - Триггер Google Sheets: теперь вы можете запускать рабочие процессы в ответ на изменения строк или новые строки в Google Sheet.
 
-  - Node enhancements
-    - Send Email node: add support for a "Reply to" email address
-    - Webhook node: when test the node by selecting Listen For Test Event then dispatching a call to the webhook, n8n now only runs the Webhook node
-    - Compare Datasets node: add an option for fuzzy compare
-    - Google Ads node: update the API version to 11
-    - Google Drive Trigger node: start using the resource locator component
-    - Item Lists node: This acts similarly to generating pivot tables in Excel, allowing you to aggregate and compare data
+   - Улучшения узла
+     - Узел отправки электронной почты: добавлена поддержка адреса электронной почты «Ответить на».
+     - Узел веб-перехватчика: при тестировании узла путем выбора «Прослушивать тестовое событие», а затем отправки вызова на веб-перехватчик, n8n теперь запускает только узел веб-перехватчика.
+     — Узел «Сравнить наборы данных»: добавлен параметр для нечеткого сравнения.
+     - Узел Google Ads: обновите версию API до 11.
+     - Узел триггера Google Диска: начните использовать компонент локатора ресурсов.
+     - Узел списков элементов: действует аналогично созданию сводных таблиц в Excel, позволяя объединять и сравнивать данные.
 
-  - Bugfixes
+   - Исправление ошибок
 
-  - Performance improvements
-
+   - Улучшения производительности
 tagline: Build complex workflows, really fast
 description: >-
   n8n is an extendable workflow automation tool. With a fair-code distribution model, n8n will always have visible source code, 
