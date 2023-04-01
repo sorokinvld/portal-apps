@@ -10,8 +10,6 @@ description: >
 
    Работает на Electrs от Романа Зейда.
 
-
-   Официальное приложение от Umbrel.
 developer: Umbrel
 website: https://umbrel.com/
 dependencies:
