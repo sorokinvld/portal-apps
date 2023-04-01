@@ -5,14 +5,14 @@ name: ChatBot UI
 version: "2023.03.27"
 tagline: ChatGPT but better
 description: >-
-  ChatBot UI is an advanced chatbot kit for OpenAI's chat models aiming to mimic ChatGPT's interface and functionality.
+ Пользовательский интерфейс ChatBot — это расширенный набор чат-ботов для моделей чата OpenAI, призванный имитировать интерфейс и функциональность ChatGPT.
 
 
-  Simply add your OpenAI API key and start chatting!
+   Просто добавьте свой ключ API OpenAI и начните общаться!
 
 
-  This version of ChatBot UI supports both GPT-3.5 and GPT-4 models. Conversations are stored locally within your browser.
-  You can export and import conversations to safeguard against data loss.
+   Эта версия пользовательского интерфейса ChatBot поддерживает модели GPT-3.5 и GPT-4. Разговоры хранятся локально в вашем браузере.
+   Вы можете экспортировать и импортировать разговоры для защиты от потери данных.
 developer: Mckay Wrigley
 website: https://github.com/mckaywrigley/chatbot-ui
 dependencies: []
