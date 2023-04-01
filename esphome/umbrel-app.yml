@@ -3,9 +3,9 @@ id: esphome
 category: Automation
 name: ESPHome
 version: "2023.2.4"
-tagline: Intelligently manage all your ESP8266/ESP32 devices
+tagline: Интеллектуальное управление всеми вашими устройствами ESP8266/ESP32
 description: >-
-  ESPHome is a system to control your ESP8266/ESP32 by simple yet powerful configuration files and control them remotely through Home Automation systems.
+  ESPHome — это система для управления вашими ESP8266/ESP32 с помощью простых, но мощных файлов конфигурации и удаленного управления ими через системы домашней автоматизации.
 developer: ESPHome
 website: https://esphome.io
 dependencies: []
@@ -21,17 +21,15 @@ defaultUsername: ""
 defaultPassword: ""
 torOnly: false
 releaseNotes: >-
-  This release updates ESPHome from version 2022.6.2 to 2023.2.4. A full list of new features, new component support, breaking changes, and bug fixes for versions 
-  between 2022.6.2 and 2023.2.4 can be found here: https://github.com/esphome/esphome/releases.
+  Этот выпуск обновляет ESPHome с версии 2022.6.2 до 2023.2.4. Полный список новых функций, поддержка новых компонентов, критические изменения и исправления ошибок для версий между 2022.6.2 и 2023.2.4 можно найти здесь: https://github.com/esphome/esphome/releases.
 
+   Примечания к выпуску версии 2023.2.4:
 
-  Version 2023.2.4 release notes:
+   - Набор BL0939 state_class для датчиков энергии
 
-  - BL0939 state_class set for energy sensors
+   - исправить паритет тегов wiegand
 
-  - fix wiegand tag parity
-
-  - Fix multiple remote_receivers with triggers esphome#4477 by @jesserockz
+   - Исправлено несколько remote_receivers с триггерами esphome#4477 by @jesserockz
 
 submitter: ShonP40
 submission: https://github.com/getumbrel/umbrel-apps/pull/43
