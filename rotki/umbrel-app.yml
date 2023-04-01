@@ -3,21 +3,21 @@ id: rotki
 category: Finance
 name: rotki
 version: "1.27.1"
-tagline: Portfolio tracking, analytics, accounting and tax reporting
+tagline: Отслеживание портфеля, аналитика, бухгалтерская и налоговая отчетность
 description: >-
-  rotki is an open source portfolio tracking, analytics, accounting and tax reporting tool that protects your privacy. 
+  rotki — это инструмент с открытым исходным кодом для отслеживания портфеля, аналитики, бухгалтерского учета и налоговой отчетности, который защищает вашу конфиденциальность.
   
 
-  The mission of rotki is to bring transparency into the crypto and financial sectors through the use of open source. 
+   Миссия rotki — обеспечить прозрачность в криптовалютном и финансовом секторах за счет использования открытого исходного кода.
   
 
-  Most importantly unlike virtually every other competing service which consists of closed source SaaS onto which you are forced to hand over all your financial data, with rotki your data is stored encrypted locally in your computer. 
+   Что наиболее важно, в отличие от практически любого другого конкурирующего сервиса, который состоит из SaaS с закрытым исходным кодом, на который вы вынуждены передавать все свои финансовые данные, с rotki ваши данные хранятся в зашифрованном виде локально на вашем компьютере.
   
 
-  It enables you to take ownership of your financial data!
+   Это позволяет вам взять на себя ответственность за ваши финансовые данные!
   
   
-  ⚠️ IMPORTANT ⚠️ Rotki is meant to be accessed locally. Hosting it on a publicly accessible machine should be avoided at all cost, unless you know what you're doing!
+  ⚠️ Важно ⚠️ Rotki предназначен для локального доступа. Хостинг на общедоступной машине следует избегать любой ценой, если только вы не знаете, что делаете!
 developer: Rotki
 website: https://rotki.com
 dependencies: []
@@ -25,12 +25,11 @@ repo: https://github.com/rotki/rotki
 support: https://github.com/rotki/rotki/issues
 port: 8084
 releaseNotes: >-
-  Rotki v1.27.1 is a patch release with minor bug fixes and new features.
-  Most importantly it fixes the accounting bug with the Average cost basis setting (used in UK and Canada),
-  introduces automatic detection of maker DAO vault collateral types and more!
+  Rotki v1.27.1 — это патч-релиз с небольшими исправлениями ошибок и новыми функциями.
+   Самое главное, он исправляет ошибку учета с настройкой на основе средней стоимости (используется в Великобритании и Канаде), вводит автоматическое определение типов обеспечения хранилища DAO производителя и многое другое!
 
   
-  Full changelog can be found here: https://github.com/rotki/rotki/releases/tag/v1.27.1
+   Полный журнал изменений можно найти здесь: https://github.com/rotki/rotki/releases/tag/v1.27.1
 gallery:
   - 1.jpg
   - 2.jpg
