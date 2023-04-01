@@ -3,46 +3,46 @@ id: trilium-notes
 category: Productivity
 name: Trilium Notes
 version: "0.55.1-build-2"
-tagline: Build your personal knowledge base with Trilium Notes
+tagline: Создайте свою личную базу знаний с Trilium Notes
 description: >-
-  Features
+  Возможности:
 
 
-  - Notes can be arranged into arbitrarily deep tree. Single note can be placed into multiple places in the tree (see cloning)
+  - Заметки можно упорядочить в сколь угодно глубокое дерево. Одна заметка может быть размещена в нескольких местах дерева (см. клонирование)
   
-  - Rich WYSIWYG note editing including e.g. tables, images and math with markdown autoformat
+  - Богатое редактирование заметок WYSIWYG, включая таблицы, изображения и расчеты с автоматическим форматированием уценки
   
-  - Support for editing notes with source code, including syntax highlighting
+  - Поддержка редактирования заметок с исходным кодом, включая подсветку синтаксиса
   
-  - Fast and easy navigation between notes, full text search and note hoisting
+  - Быстрая и простая навигация между заметками, полнотекстовый поиск и подъем заметок
   
-  - Seamless note versioning
+  - Плавное управление версиями заметок
   
-  - Note attributes can be used for note organization, querying and advanced scripting
+  - Атрибуты заметок можно использовать для организации заметок, запросов и расширенных сценариев
   
-  - Synchronization with self-hosted sync server (there's a 3rd party service for hosting synchronisation server)
+  - Синхронизация с собственным сервером синхронизации (есть сторонняя служба для размещения сервера синхронизации)
   
-  - Sharing (publishing) notes to public internet
+  - Совместное использование (публикация) заметок в общедоступном интернете
   
-  - Strong note encryption with per-note granularity
+  - Надежное шифрование заметок с детализацией для каждой заметки
   
-  - Sketching diagrams with bult-in Excalidraw (note type "canvas")
+  - Рисование диаграмм с помощью встроенной программы Excalidraw (обратите внимание на тип "холст")
   
-  - Relation maps and link maps for visualizing notes and their relations
+  - Карты соотношений и карты ссылок для визуализации заметок и их соотношений
   
-  - Scripting - see Advanced showcases
+  - Сценарии - см. Advanced showcases
   
-  - REST API for automation
+  - REST API для автоматизации
   
-  - Scales well in both usability and performance upwards of 100 000 notes
+  - Хорошо масштабируется как по удобству использования, так и по производительности до 100 000 заметок
   
-  - Touch optimized mobile frontend for smartphones and tablets
+  - Сенсорный оптимизированный мобильный интерфейс для смартфонов и планшетов
   
-  - Night theme
+  - Ночная тема
   
-  - Evernote and Markdown import & export
+  - Импорт и экспорт Evernote и Markdown
   
-  - Web Clipper for easy saving of web content
+  - Web Clipper для удобного сохранения веб-контента
 developer: ZAdam
 website: https://github.com/zadam/trilium
 dependencies: []
