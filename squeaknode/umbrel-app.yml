@@ -3,14 +3,12 @@ id: squeaknode
 category: Social
 name: Squeaknode
 version: "0.3.3"
-tagline: A peer-to-peer status feed with Lightning monetization
+tagline: Одноранговая лента статуса с монетизацией Lightning
 description: >-
-  Squeaknode is a peer-to-peer microblog with posts unlocked by
-  Lightning Network payments. The app allows you to create, view, buy, and sell
-  squeaks. A squeak is a post that can contain up to 280 characters.
+  Squeaknode — это одноранговый микроблог, сообщения которого разблокируются с помощью платежей Lightning Network. Приложение позволяет создавать, просматривать, покупать и продавать писк. Сквик — это пост, который может содержать до 280 символов.
 
 
-  The Squeaknode timeline is ordered by the height of the Bitcoin block hash embedded in each squeak. Each squeak must be signed with the private key of the author. Squeaks can be downloaded from any peer to any peer, but they remain locked until the downloader makes a Lightning payment to decrypt the content.
+   Временная шкала Squeaknode упорядочена по высоте хэша биткойн-блока, встроенного в каждый Сквик. Каждый Сквик должен быть подписан закрытым ключом автора. Squeaks можно загрузить с любого узла на любой узел, но они остаются заблокированными до тех пор, пока загрузчик не совершит платеж Lightning для расшифровки содержимого.
 developer: Jonathan Zernik
 website: https://squeaknode.org
 dependencies:
