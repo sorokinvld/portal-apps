@@ -3,17 +3,15 @@ id: tailscale
 category: Networking
 name: Tailscale
 version: "v1.34.2"
-tagline: Zero config VPN to access your Umbrel from anywhere
+tagline: Нулевая конфигурация VPN для доступа к вашему Порталу из любого места
 description: >-
-  Tailscale is zero config VPN that creates a secure network between
-  your Umbrel and your other devices. Even when separated by firewalls or
-  subnets, Tailscale just works.
+  Tailscale — это VPN с нулевой конфигурацией, которая создает безопасную сеть между вашим Порталом и другими вашими устройствами. Даже если они разделены брандмауэрами или подсетями, Tailscale работает.
 
 
-  Tailscale will assign your Umbrel a stable IP and an auto-assigned domain that stays consistent, no matter what network your Umbrel is connected to. It’s like a local network that works everywhere.
+   Tailscale назначит вашему Порталу стабильный IP-адрес и даст автоматически назначенный домен, который останется неизменным, независимо от того, к какой сети подключен ваш Портал. Это как локальная сеть, которая работает везде.
 
 
-  Tailscale builds on top of WireGuard®’s Noise protocol encryption, a peer-reviewed and trusted standard.
+   Tailscale построен на основе шифрования протокола WireGuard® Noise, проверенного и надежного стандарта.
 developer: Tailscale Inc.
 website: https://tailscale.com
 dependencies: []
