@@ -3,16 +3,13 @@ id: lnbits
 category: Finance
 name: LNbits
 version: "0.9.7"
-tagline: Multi-user wallet management system
+tagline: Многопользовательская система управления кошельком
 description: >-
-  LNbits is a simple multi-user and account system for Lightning
-  Network that can be used for creating separate Lightning wallets for friends
-  and family members. You can also create multiple accounts for yourself to
-  mitigate the risk of exposing applications to your full balance via unique API
-  keys for each wallet.
+  LNbits — это простая многопользовательская система учетных записей для Lightning.
+   Сеть, которую можно использовать для создания отдельных кошельков Lightning для друзей и членов семьи. Вы также можете создать несколько учетных записей для себя, чтобы снизить риск раскрытия баланса для приложений с помощью уникальных ключей API для каждого кошелька.
 
 
-  LNbits is packaged with tools to help manage funds, such as a table of transactions, line chart of spending, export to CSV, and more to come. It provides an extendable platform for expanding Lightning Network functionality via LNbits extension framework, and can also be used as a fallback wallet for the LNURL scheme.
+   LNbits поставляется с инструментами для управления средствами, такими как таблица транзакций, линейная диаграмма расходов, экспорт в CSV и многое другое. Он предоставляет расширяемую платформу для расширения функциональности Lightning Network с помощью платформы расширения LNbits, а также может использоваться в качестве резервного кошелька для схемы LNURL.
 developer: LNbits
 website: https://github.com/lnbits/lnbits-legend
 dependencies:
