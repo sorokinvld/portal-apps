@@ -3,17 +3,15 @@ id: squeakroad
 category: Finance
 name: Squeak Road
 version: "0.1.14-build-2"
-tagline: Run your own anonymous market
+tagline: Запустите свой собственный анонимный маркет
 description: >-
-  Squeak Road lets you run an anonymous market where anyone can buy or sell anything.
+  Squeak Road позволяет вам управлять анонимным маркетом, где каждый может купить или продать что угодно.
 
-  As the admin of your market, you can curate which listings are allowed, and you can configure
-  the fee rate that will be collected from sales.
+   Как администратор вашего маркета, вы можете контролировать, какие списки товаров разрешены, и вы можете настроить ставку комиссию, которая будет взиматься с продаж.
 
-  Buyers can leave ratings for each completed sale, and the ratings are used to calculate a score
-  for each seller account.
+   Покупатели могут оставлять рейтинги для каждой завершенной продажи, и рейтинги используются для расчета баллов для каждой учетной записи продавца.
 
-  Warning: This app exposes your Lightning node pubkey. Be careful not to use any other app or invoice that links your Lightning node to your identity or your location.
+   Предупреждение. Это приложение раскрывает ваш открытый ключ узла Lightning. Будьте осторожны и не используйте никакие другие приложения или счета, которые связывают ваш узел Lightning с вашей личностью или вашим местоположением.
 developer: Jonathan Zernik
 website: https://github.com/yzernik/squeakroad
 dependencies:
