@@ -3,12 +3,12 @@ id: plex
 category: Media
 name: Plex
 version: "1.31.2"
-tagline: Stream Movies & TV Shows
+tagline: Потоковое вещание фильмов и сериалов
 description: >-
-  Stream movies and TV shows, plus 300+ channels of live TV, instantly, without a subscription. Watch live TV and movies anywhere, from any device, with Plex.
+  Транслируйте фильмы и сериалы, а также более 300 каналов в прямом эфире мгновенно и без подписки. Смотрите прямые трансляции и фильмы в любом месте и с любого устройства с помощью Plex.
   
   
-  Plex uses a server to house your media library and player apps to playback the media. Add, access, and share all the entertainment that matters to you, on almost any device.
+   Plex использует сервер для размещения вашей медиатеки и приложений проигрывателя для воспроизведения мультимедиа. Добавляйте, получайте доступ и делитесь всеми важными для вас развлечениями практически на любом устройстве.
 developer: Plex
 website: https://www.plex.tv/
 dependencies: []
