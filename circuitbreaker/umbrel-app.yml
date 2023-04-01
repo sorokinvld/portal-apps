@@ -3,40 +3,36 @@ id: circuitbreaker
 category: Lightning Node Management
 name: Circuit Breaker
 version: "v0.4.3"
-tagline: Your Lightning Node's Firewall
+tagline: Firewall для вашего Lightning узла
 description: >-
-  It allows nodes to protect themselves from being flooded with HTLCs. 
-  With circuitbreaker a maximum to the number of in-flight HTLCs can be set on a per-peer basis.
-  Known and trusted peers for example can be assigned a higher maximum, while a new channel from a previously unseen node may be limited to only a few pending HTLCs.
-  Furthermore it is possible to apply rate limits to the number of forwarded HTLCs. 
-  This offers protection against DoS/spam attacks that rely on large numbers of fast-resolving HTLCs. 
-  Rate limiting is implemented with a Token bucket. 
-  Via the UI the minimum interval between HTLCs can be specified.
-  Large numbers of HTLCs are also required for probing channel balances. 
-  Reducing the information leakage through probing could be another reason to put in place a rate limit for untrusted peers.
-  
-
-  Operating modes
+  Файрвол позволяет узлам защитить себя от флуда HTLC.
+   С автоматическим выключателем можно установить максимальное количество находящихся в работе HTLC для каждого узла.
+   Например, известным и доверенным одноранговым узлам может быть назначен более высокий максимум, в то время как новый канал от ранее невидимого узла может быть ограничен только несколькими ожидающими HTLC.
+   Кроме того, можно применять ограничения скорости к количеству пересылаемых HTLC.
+   Это обеспечивает защиту от DoS-атак и спам-атак, основанных на большом количестве HTLC с быстрым разрешением.
+   Ограничение скорости реализовано с помощью корзины Token.
+   Через пользовательский интерфейс можно указать минимальный интервал между HTLC.
+   Большое количество HTLC также требуется для проверки баланса каналов.
+   Уменьшение утечки информации из-за зондирования может быть еще одной причиной для введения ограничения скорости для ненадежных одноранговых узлов.
 
 
-  There are multiple modes in which circuitbreaker can operate. A default mode and per-peer overrides can be configured via the web ui:
+  Существует несколько режимов, в которых может работать автоматический выключатель. Режим по умолчанию и переопределение для каждого узла можно настроить через веб-интерфейс:
 
   
-  - fail: Fail back HTLCs when limits are exceeded. This minimizes the lock-up of liquidity on the incoming side, but does affect your reputation as a routing node.
+  - fail: откат HTLC при превышении лимитов. Это сводит к минимуму блокировку ликвидности на входящей стороне, но влияет на вашу репутацию узла маршрутизации.
 
   
-  - queue: Queue HTLCs when limits are exceeded. Items are popped from the queue when the number of pending HTLCs is below the maximum and the rate limit allows another forward. This mode penalizes upstream nodes for the bad traffic that the deliver by locking up liquidity along the route. This may push upstream nodes to install a firewall too and constrain the mishaving node.
+  - queue: ставить HTLC в очередь при превышении лимитов. Элементы извлекаются из очереди, когда количество ожидающих HTLC ниже максимума, а ограничение скорости допускает еще одну пересылку. Этот режим наказывает вышестоящие узлы за плохой трафик, который доставляется, блокируя ликвидность на маршруте. Это может подтолкнуть вышестоящие узлы к установке брандмауэра и ограничить неисправный узел.
 
-  Even in case of circuit breaker malfunction, queue mode should never cause channel force closes because of lnd's built-in protection that auto-fails HTLCs that aren't resolved.
+  Даже в случае неисправности автоматического выключателя режим очереди никогда не должен вызывать принудительное закрытие канала из-за встроенной защиты lnd, которая автоматически блокирует HTLC, которые не разрешены.
 
-  WARNING: Auto-fail is not yet released and scheduled for lnd 0.16. With earlier lnd versions, you risk force-closes!
-
+  WARNING: Auto-fail еще не выпущен и запланирован для lnd 0.16. С более ранними версиями lnd вы рискуете принудительно закрыть!
   
-  - queue_peer_initiated: This mode is also queuing HTLCs, but only those that come in through channels for which we aren't the channel open initiator. Not being the initiator means that the remote node is carrying the cost of a potential force-closure with stuck HTLCs. For channels that we initiated, the safer fail mode is used.
+  - queue_peer_initiated: Tэтот режим также ставит в очередь HTLC, но только те, которые приходят через каналы, для которых мы не являемся инициатором открытия канала. Отсутствие инициатора означает, что удаленный узел несет расходы, связанные с потенциальным принудительным закрытием с зависшими HTLC. Для каналов, которые мы инициировали, используется более безопасный режим отказа.
 
   - blocked: This mode blocks all incoming traffic from a peer.
 
-  WARNING: See queue mode warning.
+  WARNING: См. предупреждение режима очереди.
 releaseNotes: >-
   - Improved web interface.
 
