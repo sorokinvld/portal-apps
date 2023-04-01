@@ -3,19 +3,16 @@ id: urbit
 category: Networking
 name: Urbit
 version: "v2.0"
-tagline: Run Urbit on your Umbrel
+tagline: Запустите Urbit на вашем Портале
 description: >-
-  Urbit is a personal server for self-sovereign personal & networked
-  computing. Nock, a functional combinator, is built into Hoon, a system
-  programming language, used to implement Arvo, a deterministic operating
-  system, that communicates over Ames, a decentralized, encrypted P2P network.
+  Urbit — это персональный сервер для самостоятельных личных и сетевых
+  вычислений. Nock, функциональный комбинатор, встроен в Hoon, язык системного программирования, используемый для обеспечения Arvo, детерминированной операционной системы, которая обменивается данными через Ames, децентрализованную зашифрованную сеть P2P.
 
 
-  This app helps you boot and manage Urbit instances on your Umbrel. It provides a simple management GUI, start and stop operations, and passes your +code through the interface.
+  Это приложение поможет вам загружать и управлять Urbit instances на вашем Портале. Он предоставляет простой GUI, операции запуска/выключения и передает ваш +code  через интерфейс.
 
 
-  If you are interested in purchasing an L2 planet checkout: subject.network/buy
-
+  Если вы заинтересованы в покупке L2 planet оформите заказ: subject.network/buy
 
   Credit to ~timluc-miptev, ~master-forwex, ~sipsen-pilser & ~rivpyl-sidfyl
 developer: ~mopfel-winrux & ~sitful-hatred
