@@ -3,13 +3,13 @@ id: ipfs-podcasting
 category: Files
 name: IPFS Podcasting
 version: "0.6"
-tagline: Crowd-host podcasts over IPFS
+tagline: Крауд-хост подкасты через IPFS
 description: |-
-  Turn your Umbrel into an IPFS node for self-hosting, crowd-hosting, and archiving of your favorite podcasts to the IPFS network.
+  Превратите свой Umbrel в узел IPFS для самостоятельного размещения, крауд-хостинга и архивации ваших любимых подкастов в сети IPFS.
 
-  IPFSPodcasting.net uses participating nodes to manage & track hashes of podcast episodes and generates IPFS/RSS feeds that load media from the IPFS network.
+   IPFSPodcasting.net использует участвующие узлы для управления и отслеживания хэшей эпизодов подкастов и генерирует потоки IPFS/RSS, которые загружают мультимедиа из сети IPFS.
 
-  You only need to run the app to participate. You can optionally configure your email, and manage your node from the website. View the FAQ to learn more.
+   Вам нужно только запустить приложение, чтобы принять участие. При желании вы можете настроить свою электронную почту и управлять своим узлом с веб-сайта. Просмотрите часто задаваемые вопросы, чтобы узнать больше.
 developer: IPFSPodcasting.net
 website: https://IPFSPodcasting.net
 dependencies: []
