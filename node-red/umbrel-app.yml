@@ -17,7 +17,7 @@ description: >-
    Примечание. Если вы хотите, чтобы ваши узлы «HTTP In» были доступны без аутентификации, добавьте перед своим URL-адресом «/public/». Например. /public/сделать что-то
 
 
-   Предупреждение: Node-RED (Bitcoin) на Umbrel может подключаться напрямую к Bitcoin Core, LND и Electrum, в связи с этим вы должны быть осторожны при установке сторонних узлов Node-RED.
+   Предупреждение: Node-RED (Bitcoin) на Портале может подключаться напрямую к Bitcoin Core, LND и Electrum, в связи с этим вы должны быть осторожны при установке сторонних узлов Node-RED.
 developer: OpenJS Foundation
 website: https://nodered.org
 dependencies:
