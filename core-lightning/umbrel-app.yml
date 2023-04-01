@@ -3,24 +3,21 @@ id: core-lightning
 category: Finance
 name: Core Lightning
 version: "22.11.1"
-tagline: Run your personal Core Lightning node
+tagline: Запустите свой личный узел Core Lightning
 description: >-
-  Get started with the Lightning network today with Core Lightning - a
-  Lightning Network implementation focusing on spec compliance and performance.
+  Начните работу с сетью Lightning уже сегодня с Core Lightning — реализацией сети Lightning, ориентированной на соответствие спецификациям и производительность.
 
-  The Lightning Network allows ultra cheap and almost instant Bitcoin transactions.
-  By running a Lightning node, you can not only self-custody your Bitcoin on
-  Lightning, but also earn sats by routing payments on the network.
+   Сеть Lightning позволяет проводить сверхдешевые и почти мгновенные транзакции в биткойнах.
+   Запустив узел Lightning, вы можете не только самостоятельно хранить свои биткойны на Lightning, но и зарабатывать сатоши, направляя платежи в сети.
 
 
-  Connect Zeus or any other wallet that supports Core Lightning's REST interface
-  to remotely manage and access your node from anywhere.
+   Подключите Zeus или любой другой кошелек, поддерживающий интерфейс REST Core Lightning, для удаленного управления и доступа к вашему узлу из любого места.
 
 
-  Powered by Core Lightning from Elements.
+   Работает на Core Lightning от Elements.
 
 
-  An official app from Umbrel.
+   Официальное приложение от Umbrel.
 developer: Umbrel
 website: https://umbrel.com
 dependencies:
