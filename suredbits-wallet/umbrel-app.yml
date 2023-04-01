@@ -3,19 +3,15 @@ id: suredbits-wallet
 category: Finance
 name: Suredbits Wallet
 version: "1.9.7"
-tagline: A universal DLC wallet
+tagline: Универсальный кошелек DLC
 description: >-
-  The Suredbits Wallet is your one stop shop for building Discreet
-  Log Contracts. With our wallet you can create prop bets like Trump vs Biden in
-  the 2020 US Presidential election or complicated financial derivatives such as
-  contracts for difference that can be used to hedge risk or engage in
-  speculation.
+  Кошелек Suredbits — это универсальный магазин для создания контрактов Discreet Log. С помощью нашего кошелька вы можете создавать опциональные ставки, такие как Трамп против Байдена на президентских выборах в США в 2020 году, или сложные производные финансовые инструменты, такие как контракты на разницу, которые можно использовать для хеджирования рисков или участия в спекуляциях.
 
 
-  WARNING: This is an Alpha software, don't put too much money in.
+   ВНИМАНИЕ: Это альфа-версия программного обеспечения, не вкладывайте слишком много денег.
 releaseNotes: >
-  - Fix bug where we weren't categorizing DLCs correctly by protocol version. 
-
+   - Исправлена ошибка, из-за которой мы неправильно классифицировали DLC по версии протокола.
+   
 developer: Suredbits
 website: https://suredbits.com
 dependencies:
