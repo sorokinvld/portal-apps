@@ -3,26 +3,22 @@ id: element
 category: Social
 name: Element
 version: "1.8.4"
-tagline: A glossy Matrix client compatible with Synapse
+tagline: Клиент Matrix, совместимый с Synapse
 description: >-
-  Element is a new type of messaging app. You choose where your
-  messages are stored, putting you in control of your data. You can connect it
-  to the Synapse installation running on your Umbrel. An easy way to get started
-  is to install the "Synapse" Matrix homserver on your Umbrel and change
-  Element's Homserver URL from matrix.org to your Synapse's homeserver URL
-  (http://umbrel.local:8008 or http://<synapse-tor-hidden-service-url). 
+  Element — это новый тип приложения для обмена сообщениями. Вам решать, где хранятся ваши сообщения, что позволяет вам контролировать свои данные. Вы можете подключить его к установке Synapse, работающей на вашем Umbrel. Простой способ начать работу — установить домашний сервер Matrix «Synapse» на свой Umbrel и изменить URL-адрес домашнего сервера Element с matrix.org на URL-адрес вашего домашнего сервера Synapse.
+   (http://umbrel.local:8008 или http://<synapse-tor-hidden-service-url).
 
 
-  It gives you access to the Matrix open network, so you can talk to anyone. Element provides a new level of security, adding cross-signed device verification to default end-to-end encryption.
+   Он дает вам доступ к открытой сети Matrix, так что вы можете общаться с кем угодно. Element обеспечивает новый уровень безопасности, добавляя проверку устройства с перекрестной подписью к сквозному шифрованию по умолчанию.
 
 
-  The very best end-to-end encryption and Element’s unique cross-signed device verification means only those that should be in the conversation can read the messages - no eavesdroppers or imposters.
+   Самое лучшее сквозное шифрование и уникальная проверка устройства с перекрестной подписью Element означают, что только те, кто должен быть в разговоре, могут читать сообщения — никаких перехватчиков или самозванцев.
 
 
-  Most important of all, Element is open; built on the Matrix network, it connects to all other Matrix-based apps as well as bridging into proprietary systems. You can stay in Element while talking to friends and family in other apps.
+   Самое главное, что Element открыт; построенный в сети Matrix, он подключается ко всем другим приложениям на основе Matrix, а также подключается к проприетарным системам. Вы можете оставаться в Element, разговаривая с друзьями и семьей в других приложениях.
 
 
-  Element is open source. You know exactly what you’re getting. Full transparency, the freedom to extend and customise with the support of a vibrant community of developers.
+   Элемент с открытым исходным кодом. Вы точно знаете, что получаете. Полная прозрачность, свобода расширения и настройки при поддержке активного сообщества разработчиков.
 developer: New Vector Ltd
 website: https://element.io
 dependencies: []
