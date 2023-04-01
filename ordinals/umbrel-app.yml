@@ -3,15 +3,15 @@ id: ordinals
 category: Explorers
 name: Ordinals
 version: "0.5.1"
-tagline: Trustlessly view Ordinal inscriptions using your Bitcoin node.
+tagline: Ненадежно просматривайте Ordinal inscriptions, используя ваш Биткоин-узел.
 description: >
-  A block explorer to trustlessly view Ordinal inscriptions. Search blocks, transactions, outputs, and individual satoshis.
+  Обозреватель блоков для безопасного просмотра Ordinal inscriptions. Поиск блоков, транзакций, выходов и отдельных сатоши.
 
 
-  Simply install the app and wait for Ordinals to connect to your Bitcoin node and index inscriptions.
+   Просто установите приложение и подождите, пока Ordinals подключатся к вашему узлу Биткойн и индексируют записи.
 
 
-  Disclaimer: The Ordinals app does not control, filter, or moderate the content hosted on the Bitcoin blockchain. Consequently, you may come across NSFW (Not Safe For Work), objectionable, or unlawful material while using the app.
+   Отказ от ответственности: приложение Ordinals не контролирует, не фильтрует и не модерирует контент, размещенный в блокчейне Биткойн. Следовательно, вы можете столкнуться с NSFW (небезопасно для работы), нежелательными или незаконными материалами при использовании приложения.
 releaseNotes: ""
 developer: Casey Rodarmor
 website: https://ordinals.com/
