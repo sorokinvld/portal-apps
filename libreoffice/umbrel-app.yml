@@ -3,29 +3,9 @@ id: libreoffice
 category: Files
 name: LibreOffice
 version: "7.2.7"
-tagline: Do more - easier, quicker, smarter
+tagline: Делайте больше - проще, быстрее, умнее
 description: >-
-  LibreOffice is a free and powerful office suite, and a successor to OpenOffice.org (commonly known as OpenOffice). Its clean interface and feature-rich tools help you unleash your creativity and enhance your productivity.
-  
-
-  16,384 columns in Calc.
-  
-  Working with large amounts of data? Spreadsheets can now have up to 16,384 columns. Also, a new menu entry (Sheet ▸ Navigate ▸ Go to Sheet) helps with navigation.
-
-  
-  Better change tracking in Writer
-  
-  Tracked footnote insertions and deletions are now visible in the footnote area. In addition, Writer now can take advantage of the remote LanguageTool APIs for grammar checking.
-
-  
-  Document themes in presentations
-  
-  Impress now has initial document theme support. it is possible to define a document theme on master pages, and you can refer to the theme colours from shape text (including effects).
-
-  
-  And much more
-  
-  Performance boosts, compatibility improvements, and fixes. For a full list of new features in LibreOffice 7.4, see our release notes.
+  LibreOffice - это бесплатный и мощный офисный набор и преемник OpenOffice.org (обычно известный как OpenOffice). Его чистый интерфейс и многофункциональные инструменты помогут вам раскрыть свой творческий потенциал и повысить вашу производительность. 16 384 столбца в Calc. Работа с большими объемами данных? Электронные таблицы теперь могут иметь до 16 384 столбцов. Кроме того, новая запись в меню (лист ▸ навигация ▸ Перейти к листу) помогает с навигацией. Лучшее отслеживание изменений в отслеживаемых писательских сносках вставки и удаления теперь видны в области сноски. Кроме того, Writer теперь может использовать преимущества API удаленного LanguageTool для проверки грамматики. Темы документов в презентациях Impress теперь имеют первоначальную поддержку темы. На главных страницах можно определить тему документа, и вы можете обратиться к цветам темы из текста формы (включая эффекты). И гораздо больше повышения производительности, улучшения совместимости и исправлений. Полный список новых функций в LibreOffice 7.4 см. В наших заметках к выпуску.
 developer:  The Document Foundation
 website: https://www.libreoffice.org/
 dependencies: []
