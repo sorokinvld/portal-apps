@@ -3,10 +3,8 @@ id: lndg
 category: Lightning Node Management
 name: LNDg
 version: "1.5.1"
-tagline: Analyze and automate your Lightning node management
-description: LNDg is your command center for running a profitable and efficient
-  routing node. From quickly viewing your node's health, automated rebalancing,
-  selecting new potential peers and much more.
+tagline: Анализируйте и автоматизируйте управление узлами Lightning
+description: LNDg — это ваш центр управления прибыльным и эффективным узлом маршрутизации, включающий быстрый просмотр состояния вашего узла, автоматическую перебалансировку, выбор новых потенциальных пиров и многое другое.
 developer: cryptosharks131
 website: https://github.com/cryptosharks131
 dependencies:
@@ -22,18 +20,18 @@ path: ""
 defaultUsername: lndg-admin
 deterministicPassword: true
 releaseNotes: >-
-  - Async rebalancing - add additional AR workers from the advanced settings page
+  - Асинхронная ребалансировка — добавьте дополнительных AR-воркеров со страницы дополнительных настроек.
   
-  - Simple front-end table sorting and basic dark mode toggle
+   - Простая сортировка таблиц во внешнем интерфейсе и базовое переключение темного режима.
   
-  - Short channel ids are displayed for the nodes channel objects
+   - Короткие идентификаторы каналов отображаются для объектов каналов узлов.
   
-  - Peer events are now tracked including connection times and fee policy changes
+   - Теперь отслеживаются одноранговые события, включая время подключения и изменения политики оплаты.
   
-  - The channel policy update form has been removed from the bottom of the home dashboard
+   - Форма обновления политики канала была удалена из нижней части домашней панели.
   
-  - Additional fixes included in v1.5.1
+   - Дополнительные исправления, включенные в v1.5.1
   
-  - And more... Full details can be found here: https://github.com/cryptosharks131/lndg/releases/tag/v1.5.1
+   - И еще... Полную информацию можно найти здесь: https://github.com/cryptosharks131/lndg/releases/tag/v1.5.1
 submitter: cryptosharks131
 submission: https://github.com/getumbrel/umbrel/pull/1189
