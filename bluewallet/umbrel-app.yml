@@ -5,9 +5,9 @@ name: BlueWallet Lightning
 version: "1.4.1"
 tagline: Подключите BlueWallet к вашему Lightning узлу
 description: >-
-  Запустите BlueWallet максимально исключив участие третьих сторон и подключив его напрямую к узлу Lightning вашего Umbrel.
+  Запустите BlueWallet максимально исключив участие третьих сторон и подключив его напрямую к узлу Lightning вашего Портала.
 
-  Вы можете связать несколько учетных записей BlueWallet, чтобы ваши друзья и родственники могли подключить свой BlueWallet к вашему Umbrel в максимально безопасной среде.
+  Вы можете связать несколько учетных записей BlueWallet, чтобы ваши друзья и родственники могли подключить свой BlueWallet к вашему Порталу в максимально безопасной среде.
 developer: BlueWallet
 website: https://lndhub.io
 dependencies:
