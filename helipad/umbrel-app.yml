@@ -3,9 +3,8 @@ id: helipad
 category: Lightning Node Management
 name: Helipad
 version: "0.1.10"
-tagline: View boosts & boostagrams from Podcasting 2.0 apps
-description: Helipad shows boosts and boostagram messages coming in to your
-  Lightning node from your listeners who are using Podcasting 2.0 apps.
+tagline: Просмотр бустов и бустаграмм из приложений Podcasting 2.0
+description: Показывает сообщения о бустах и бустаграммах, поступающие на ваш узел Lightning от ваших слушателей, использующих приложения Podcasting 2.0.
 developer: Podcastindex.org
 website: https://podcastindex.org
 dependencies:
