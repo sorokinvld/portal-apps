@@ -3,21 +3,20 @@ id: transmission
 category: Networking
 name: Transmission
 version: "3.00-r5"
-tagline: A fast, easy and free BitTorrent client
+tagline: Быстрый, легкий и бесплатный клиент BitTorrent
 description: >-
-  Transmission is designed for easy, powerful use. We've set the defaults to just work and it only takes a few clicks to configure advanced features like watch directories, bad peer blocklists, and the web interface. When Ubuntu chose Transmission as its default BitTorrent client, one of the most-cited reasons was its easy learning curve.
+  Трансмиссия предназначена для легкого и мощного использования. Мы установили значения по умолчанию, и для конфигурации расширенных функций, таких как каталоги просмотра, списки запрещенных узлов и веб-интерфейс требуется всего несколько щелчков мыши. Когда Ubuntu выбрала Transmission в качества базового клиента BitTorrent, одной из наиболее часто упоминаемых причин была простота обучения.
 
 
-  Transmission has one of the lowest memory & resource footprints of any major BitTorrent client. Transmission's light overhead is one reason why it is so well suited for home NAS and media servers. Having been used by Western Digital, Zyxel and Belkin, Transmission gives truly impressive performance on almost any compatible hardware.
-
-  
-  Transmission is an open source, volunteer-based project. Unlike some BitTorrent clients, Transmission doesn't play games with its users to make money.
+  Transmission имеет самый небольшой footprint памяти и ресурсов среди всех крупных клиентов BitTorrent. Небольшие накладные расходы Transmission - одна из причин, почему она так хорошо подходит для домашних NAS и медиасерверов. Transmission используется Western Digital, Zyxel и Belkin и обеспечивает действительно впечатляющую производительность практически на любом совместимом оборудовании.
 
   
-  We don't bundle toolbars, pop-up ads, flash ads, twitter tools, or anything else. It doesn't hold some features back for a payware version. We don't track our users. Our website and forums have no third-party ads or analytics.
+  Transmission — это открытый проект, основанный волонтерами. В отличие от некоторых клиентов BitTorrent, Transmission не играет со своими пользователями в игры, чтобы заработать деньги.
+  
+  Мы не впихиваем панели инструментов, всплывающую рекламу, флэш-рекламу, инструменты Twitter или что-то подобное. Он не удерживает функции для платной версии. Мы не отслеживаем наших пользователей. На нашем веб-сайте и форумах нет сторонней рекламы или аналитики.
 
 
-  ⚠️ Transmission downloads torrents over the Clearnet, not Tor.
+  ⚠️ Transmission загрудает торренты через Clearnet, а не через Tor.
 developer: Transmission
 website: https://transmissionbt.com/
 dependencies: []
