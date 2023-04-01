@@ -4,10 +4,9 @@ category: Explorers
 name: LnVisualizer
 version: "0.0.26"
 releaseNotes: >-
-  - new channel color mapping modes. can map channel color by fee-rate, base-fee, cltv-delta, max-htlc, min-htlc
+  -новые режимы отображения цвета канала. может отображать цвет канала по fee-rate, base-fee, cltv-delta, max-htlc, min-htlc
 
-  - new color range ui menu
-
+   - новое меню цветовой гаммы пользовательского интерфейса
 tagline: View the Lightning Network from your node's perspective
 description:
   Your Lightning node is continuously receiving, storing, and transmitting graph information.
