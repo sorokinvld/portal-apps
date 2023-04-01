@@ -3,32 +3,29 @@ id: specter-desktop
 category: Finance
 name: Specter Desktop
 version: "1.14.2"
-tagline: Multisig with hardware wallets made easy
+tagline: Мультиподпись с аппаратными кошельками — это просто
 description: >-
-  Specter Desktop connects to the Bitcoin Core running on your Umbrel
-  and functions as a watch-only coordinator for multi-signature and single-key
-  Bitcoin wallets. At the moment Specter Desktop is working with all major
-  hardware wallets including:
+  Spectre Desktop подключается к Bitcoin Core, работающему на вашем Портале, и функционирует как координатор только для просмотра биткойн-кошельков с мультиподписью и одним ключом. На данный момент Spectre Desktop работает со всеми основными аппаратными кошельками, включая:
 
 
-  - Trezor
+   - Трезор
 
-  - Ledger
+   - Леджер
 
-  - KeepKey
+   - KeepKey
 
-  - BitBox02
+   - Битбокс02
 
-  - ColdCard (optionally airgapped, using an SD card)
+   - ColdCard (опционально изолированно, с использованием SD-карты)
 
-  - Electrum (optionally airgapped, if running Electrum on an airgapped computer/phone)
+   - Электрум (опционально изолированно, если Электрум работает на компьютере/телефоне)
 
-  - Specter DIY (optionally airgapped, using QR codes)
+   - Spectre DIY (опционально изолированно, с использованием QR-кодов)
 
-  - Cobo (airgapped, using QR codes)
+   - Cobo (изолированно, с использованием QR-кодов)
 
 
-  Specter Desktop also supports using the Bitcoin Core on your Umbrel as a hot wallet, by importing or generating a random BIP39 mnemonic, but this feature is experimental and we do not recommend using it at this stage. We plan to add support for other hardware wallets as they come up.
+   Spectre Desktop также поддерживает использование Bitcoin Core на вашем Портале в качестве горячего кошелька путем импорта или генерации случайной мнемоники BIP39, но эта функция является экспериментальной, и мы не рекомендуем использовать ее на данном этапе. Мы планируем добавить поддержку других аппаратных кошельков по мере их появления.
 developer: Crypto Advance
 website: https://specter.solutions
 dependencies:
