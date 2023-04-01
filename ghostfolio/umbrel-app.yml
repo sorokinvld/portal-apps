@@ -3,20 +3,18 @@ id: ghostfolio
 category: Finance
 name: Ghostfolio
 version: "1.241.0"
-tagline: Manage your wealth like a boss
+tagline: Управляйте своим благосостоянием как босс
 description: >-
-  Ghostfolio is a privacy-first, open source dashboard for your personal finances.
+  Ghostfolio — это информационная панель с открытым исходным кодом, ориентированная на конфиденциальность, для ваших личных финансов.
   
 
-  Break down your asset allocation, know your net worth and make solid, data-driven
-  investment decisions.
+   Распределите распределение активов, узнайте свою чистую стоимость и принимайте обоснованные инвестиционные решения на основе данных.
 
 
-  Protect your assets. Refine your personal investment strategy.
+   Защитите свои активы. Усовершенствуйте свою личную инвестиционную стратегию.
 
   
-  Ghostfolio empowers busy people to keep track of stocks, ETFs or cryptocurrencies
-  without being tracked.
+   Ghostfolio позволяет занятым людям отслеживать акции, ETF или криптовалюты без отслеживания со стороны.
 developer: Ghostfolio
 website: https://ghostfol.io/
 dependencies: []
