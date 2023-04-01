@@ -3,18 +3,15 @@ id: electrs
 category: Finance
 name: Electrs
 version: "0.9.10"
-tagline: A simple and efficient Electrum Server
+tagline: Простой и эффективный Electrum сервер
 description: >
-  Run your personal Electrum server and connect your Electrum-compatible wallet,
-  including BitBoxApp, BlueWallet, Electrum Wallet (Android and Desktop), Nunchuk 
-  (Desktop), Phoenix, and Sparrow Wallet to it instead of using a third-party
-  Electrum server.
+  Запустите свой личный сервер Electrum и подключите к нему свой Electrum-совместимый кошелек, включая BitBoxApp, BlueWallet, Electrum Wallet (Android и Desktop), Nunchuk (Desktop), Phoenix и Sparrow Wallet, вместо использования стороннего сервера Electrum.
 
 
-  Powered by Electrs from Roman Zeyde.
+   Работает на Electrs от Романа Зейда.
 
 
-  An official app from Umbrel.
+   Официальное приложение от Umbrel.
 developer: Umbrel
 website: https://umbrel.com/
 dependencies:
