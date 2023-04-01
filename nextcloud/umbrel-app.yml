@@ -3,32 +3,30 @@ id: nextcloud
 category: Files
 name: Nextcloud
 version: "25.0.1"
-tagline: Productivity platform that keeps you in control
+tagline: Платформа, обеспечивающая контроль за вашими данными.
 description: >-
-  Nextcloud puts your data at your fingertips, under your control.
-  Store your documents, calendar, contacts and photos on your Umbrel instead of
-  some company's data center. Features:
+  Nextcloud позволять держать данные только под вашим контролем.
+   Храните документы, календарь, контакты и фотографии на своем Umbrel, а не в дата-центре какой-либо компании.
+   Функции:
 
+   - Мобильная и настольная синхронизация
 
-  - Mobile and desktop sync 
+   - Управление версиями и восстановление
 
-  - Versioning and undelete 
+   - Галереи и лента активности
 
-  - Galleries and activity feed 
+   - Поддержка редактирования и предварительного просмотра файлов PDF, изображений, текстовых файлов, файлов Open Document, Word и многого другого.
 
-  - File editing and preview support for PDF, images, text files, Open Document, Word files and more. 
+   - Плавная работа и простой пользовательский интерфейс.
 
-  - Smooth performance and easy user interface. 
+   - Детальный контроль над доступом к данным и возможностями совместного использования по пользователям и группам.
 
-  - Fine-grained control over access to data and sharing capabilities by user and by group.
-
-
-  Note: After logging in to Nextcloud please change the password to something secure before sharing the address with anyone.
+   Примечание. После входа в Nextcloud измените пароль на безопасный, прежде чем делиться адресом с кем-либо.
 releaseNotes: >-
-  ⚠️ This update may take a while. It migrates Nextcloud from v22 to v25 and can take several minutes depending on your Internet connection speed, your server hardware, and how many files you have stored in Nextcloud.
+  ⚠️ Это обновление с версии 22 на версию 25 и может занять несколько минут в зависимости от скорости вашего интернет-соединения, аппаратного обеспечения вашего сервера и количества файлов, которые вы сохранили в Nextcloud.
 
 
-  - Full changelog can be found here: https://nextcloud.com/changelog/
+   - Полный журнал изменений можно найти здесь: https://nextcloud.com/changelog/
 developer: Nextcloud GmbH
 website: https://nextcloud.com
 dependencies: []
