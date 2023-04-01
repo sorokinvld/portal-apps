@@ -3,16 +3,13 @@ id: thunderhub
 category: Lightning Node Management
 name: ThunderHub
 version: "0.13.18"
-tagline: Take full control of your Lightning node
+tagline: Получите полный контроль за вашим узлом Lightning
 description: >-
-  ThunderHub allows you to take full control of your Lightning node
-  with a slick and awesome UI. Explore all the options that ThunderHub has to
-  offer, from sending and receiving Lightning payments, to checking your node's
-  health statistics, and even more advanced options like channel rebalancing and
-  multi-path lightning payments.
+  ThunderHub позволит вам получить полный контроль над вашим узлом Lightning
+со стильным и удобным UI. Изучите все возможности, предлагаемые ThunderHub, от отправки и получения Lightning платежей до проверки статистики работоспособности вашего узла и даже более продвинутых опций, таких как перебалансировка каналов и многопутевые Lightning платежи.
 
 
-  Managing and monitoring your node has never been easier with transaction reports, graphs and a huge assortment of different features all bundled inside of this great tool.
+  Управление и мониторинг вашего узла стали легкими как никогда благодаря отчетам о транзакциях, графикам и огромному набору различных функций, объединённых внутри этого прекрасного инструмента.
 developer: Anthony Potdevin
 website: https://apotdevin.com
 dependencies:
