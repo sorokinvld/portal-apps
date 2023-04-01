@@ -3,22 +3,18 @@ id: synapse
 category: Social
 name: Synapse
 version: "1.42.0"
-tagline: Matrix reference homeserver
+tagline: Эталонный домашний сервер Matrix
 description: >-
-  Synapse is a reference "homeserver" implementation of Matrix from
-  the core development team at matrix.org, written in Python/Twisted. It is
-  intended to showcase the concept of Matrix and let folks see the spec in the
-  context of a codebase and let you run your own homeserver and generally help
-  bootstrap the ecosystem.
+  Synapse — это эталонная реализация Matrix на «домашнем сервере» от основной группы разработчиков на matrix.org, написанная на Python/Twisted. Он предназначен для демонстрации концепции Matrix и позволяет людям увидеть спецификацию в контексте кодовой базы, а также позволить вам запустить собственный домашний сервер и в целом помочь запустить экосистему.
 
 
-  The easiest way to try out your new Synapse installation is by connecting to it from a web client.
+   Самый простой способ опробовать новую установку Synapse — подключиться к ней из веб-клиента.
 
 
-  An easy way to get started is to install the "Element" app on your Umbrel and change its Homeserver URL from matrix.org server to your Synapse's Homeserver URL of http://umbrel.local:8008 (or http://<synapse-tor-hidden-service-url> if you are accessing remotely).
+   Простой способ начать работу — установить приложение «Элемент» на свой Umbrel и изменить его URL-адрес домашнего сервера с сервера matrix.org на URL-адрес вашего домашнего сервера Synapse http://umbrel.local:8008 (или http://<synapse -tor-hidden-service-url> при удаленном доступе).
 
 
-  In Matrix, every user runs one or more Matrix clients, which connect through to a Matrix homeserver. The homeserver stores all their personal chat history and user account information - much as a mail client connects through to an IMAP/SMTP server. Just like email, you can either run your own Matrix homeserver and control and own your own communications and history or use one hosted by someone else (e.g. matrix.org) - there is no single point of control or mandatory service provider in Matrix, unlike WhatsApp, Facebook, Hangouts, etc.
+   В Matrix каждый пользователь запускает один или несколько клиентов Matrix, которые подключаются к домашнему серверу Matrix. Домашний сервер хранит всю их личную историю чатов и информацию об учетных записях пользователей - так же, как почтовый клиент подключается к серверу IMAP/SMTP. Как и в случае с электронной почтой, вы можете либо запустить свой собственный домашний сервер Matrix, контролировать и владеть своими сообщениями и историей, либо использовать сервер, размещенный кем-то другим (например, matrix.org) — в Matrix нет единой точки контроля или обязательного поставщика услуг, в отличие от WhatsApp, Facebook, Hangouts и т. д.
 developer: Matrix
 website: https://matrix.org
 dependencies: []
