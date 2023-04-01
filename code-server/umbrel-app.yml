@@ -3,15 +3,12 @@ id: code-server
 category: Development
 name: code-server
 version: "4.4.0"
-tagline: Run VS Code on your Umbrel
+tagline: Запустите VS Code на вашем Umbrel
 description: >-
-  Run VS Code on your Umbrel and access it in the browser so you can
-  code on any device with a consistent development environment. This way you can
-  use your Umbrel not only to code from any device, anywhere, but to also speed
-  up tests, compilations, downloads, and more.
+  Запустите VS Code на своем Umbrel и получите доступ к нему в браузере, чтобы вы могли кодировать на любом устройстве с согласованной средой разработки. Таким образом, вы можете использовать свой Umbrel не только для кодирования с любого устройства и в любом месте, но и для ускорения тестов, компиляций, загрузок и многого другого.
 
 
-  By running all intensive tasks run on your Umbrel, preserve battery life of your devices when you're on the go.
+   Запуская все ресурсоемкие задачи на своем Umbrel, вы экономите заряд батареи ваших устройств, когда вы в пути.
 developer: Coder
 website: https://coder.com
 dependencies: []
