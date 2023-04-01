@@ -3,13 +3,11 @@ id: woofbot-lnd
 category: Finance
 name: WoofBot (LND)
 version: "0.7.1"
-tagline: A chatbot for your personal node
+tagline: Чат-бот для вашей личного узла
 description: >-
-  WoofBot is a chat bot that runs on your personal Bitcoin node and sends telegram notifications
-  based on pre-configured conditions: addresses, transactions, new-blocks and price changes.
+  WoofBot — это чат-бот, который работает на вашем личном узле Биткойн и отправляет уведомления на основе предварительно настроенных условий: адресов, транзакций, новых блоков и изменений цен.
 
-  This version of WoofBot integrates with LND lightning api. WoofBot is NOT affiliated with
-  Lightning Labs, the creators of LND. WoofBot only communicates with LND's api.
+  Эта версия WoofBot интегрируется с LND Lightning API. WoofBot НЕ связан с Lightning Labs, создателями LND. WoofBot взаимодействует только с API LND.
 developer: WoofBotApp
 website: https://github.com/woofbotapp
 dependencies:
