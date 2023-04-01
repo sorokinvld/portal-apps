@@ -3,20 +3,18 @@ id: calibre-web
 category: Files
 name: Calibre Web
 version: "0.6.19"
-tagline: A clean web app for your eBooks
+tagline: Простое веб-приложение для ваших электронных книг
 description: >-
-  Calibre-web is a web app providing a clean interface for browsing, reading and downloading eBooks using an existing Calibre database.
-  It is also possible to integrate google drive and edit metadata and your calibre library through the app itself. 
-  It's the webbapp version of the well known Calibre for desktop.
+  Calibre-web — это веб-приложение, обеспечивающее чистый интерфейс для просмотра, чтения и загрузки электронных книг с использованием существующей базы данных Caliber. Также можно интегрировать Google Drive и редактировать метаданные и вашу библиотеку caliber через само приложение. Это веб-версия хорошо известного Caliber для настольных компьютеров.
   
   
-  On the initial setup screen, enter /books as your calibre library location.
+   На начальном экране настройки введите /books в качестве местоположения вашей библиотеки calibre.
   
   
-  If you wish to enable the upload feature, please go to "Settings > Edit Basic Configuration > Feature Configuration > Enable Upload".
+   Если вы хотите включить функцию загрузки, перейдите в «Настройки» > «Редактировать базовую конфигурацию» > «Конфигурация функции» > «Включить загрузку» или "Settings > Edit Basic Configuration > Feature Configuration > Enable Upload"
   
   
-  It's recommended to read through the official documentation, which is available at https://github.com/janeczku/calibre-web/wiki
+   Рекомендуется прочитать официальную документацию, которая доступна по адресу https://github.com/janeczku/cale-web/wiki.
 developer: Janeczku
 website: ""
 dependencies: []
