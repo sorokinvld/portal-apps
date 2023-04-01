@@ -3,21 +3,21 @@ id: firefox
 category: Networking
 name: Firefox
 version: "101.0.1"
-tagline: Firefox is a free and open-source web browser
+tagline: Firefox бесплатный браузер с открытым исходным кодом
 description: >-
-  Get the browser that protects what is important.
+  Получите браузер, который защищает то, что важно.
 
 
-  No shady privacy policies or back doors for advertisers. Just a lightning fast browser that does not sell you out.
+   Никаких скрытых политик конфиденциальности или лазеек для рекламодателей. Просто быстрый браузер, который вас не продаст.
 
 
-  Get all the speed and tools with none of the invasions of privacy. Firefox Browser collects so little data about you, we do not even require your email address to download. That is because unlike other browsers, we have no financial stake in following you around the web.
+   Получите всю скорость и инструменты без вторжений в частную жизнь. Браузер Firefox собирает так мало данных о вас, что нам даже не требуется ваш адрес электронной почты для загрузки. Это потому, что, в отличие от других браузеров, мы не заинтересованы в том, чтобы следить за вами в Интернете.
 
 
-  Firefox is for everyone:
+   Firefox для всех:
 
 
-  Available in over 90 languages, and compatible with Windows, Mac and Linux machines, Firefox works no matter what you are using or where you are. Make sure your operating system is up to date for the best experience.
+   Доступный на более чем 90 языках и совместимый с компьютерами Windows, Mac и Linux, Firefox работает независимо от того, что вы используете и где вы находитесь. Убедитесь, что ваша операционная система обновлена, чтобы получить наилучшие впечатления.
 developer: Mozilla Foundation
 website: https://www.mozilla.org/en-US/firefox/
 dependencies: []
