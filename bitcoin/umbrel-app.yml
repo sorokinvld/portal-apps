@@ -3,23 +3,17 @@ id: bitcoin
 category: Finance
 name: Bitcoin Node
 version: "24.0.1-2"
-tagline: Run your personal node powered by Bitcoin Core
+tagline: Запустите свой собственный узел Bitcoin Core
 description: >-
-  Run your Bitcoin node and independently store and validate
-  every single Bitcoin transaction with it. Achieve unparalleled
-  privacy by connecting your wallet directly to your node to
-  ensure that your wallet company can’t spy on your transactions,
-  or worse — lie to you.
+  Запустите свой биткойн-узел, после чего храните и проверяйте
+   каждую биткойн-транзакцию. Добейтесь максимальной конфиденциальности, подключив свой кошелек напрямую к вашему узлу, чтобы сторонняя компания не могла следить за вашими транзакциями или ообманывать вас.
+
+   Кроме того, транзакции с использованием вашего собственного узла поддерживают децентрализованнность сети Биткоин!
+
+   Не доверяй. Проверяй.
 
 
-  Plus, transacting with your own node also helps keep the entire
-  Bitcoin network decentralized; win-win!
-
-
-  Don't trust. Verify. On steroids.
-
-
-  An official app from Umbrel.
+   Официальное приложение от Umbrel.
 developer: Umbrel
 website: https://umbrel.com
 dependencies: []
@@ -35,24 +29,24 @@ gallery:
 path: ""
 defaultPassword: ""
 releaseNotes: >-
-  Advanced settings are here!
+  Расширенные настройки!
 
 
-  - Toggle Tor, Clearnet, and I2P for outgoing connections, and enable Mempool Full RBF.
+   - Переключите Tor, Clearnet и I2P для исходящих соединений и включите Mempool Full RBF.
 
 
-  - Enable incoming connections to run a listening node and help others sync their node.
+   - Включите входящие соединения, чтобы запустить прослушивающий узел и помочь другим синхронизировать свои узлы.
 
 
-  - Switch networks between mainnet, testnet, regtest, and signet.
+   - Переключайте сети между mainnet, testnet, regtest и signet.
 
 
-  - Setting up a new node? Speed up your initial sync by increasing the cache size.
+   - Настройка нового узла? Ускорьте начальную синхронизацию, увеличив размер кэша.
 
 
-  - Finally, you can run a pruned node, which allows you to delete old blocks that are not relevant to you to save on storage space.
+   - Наконец, вы можете запустить сокращенный узел, который позволяет вам удалять старые блоки, которые не имеют отношения к вам, чтобы сэкономить место для хранения.
 
 
-  Note: This update fixes a bug with pruning in the previous 24.0.1 update.
+  Note: Это обновление исправляет ошибку с обрезкой в предыдущем обновлении 24.0.1.
 submitter: Umbrel
 submission: https://github.com/getumbrel/umbrel-apps/commit/576ecd2bef8d625abceed0f67ec9c487da9b2b1b
