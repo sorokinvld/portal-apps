@@ -3,14 +3,12 @@ id: sparkkiosk
 category: Finance
 name: Sparkkiosk
 version: "1.0.0-build-2"
-tagline: Minimal LNURL kiosk
+tagline: Минималистичный киоск LNURL
 description: >-
-  Use sparkkiosk to enable lightning payments from printed QR codes
-  in selfservice kiosks / cafés or other places where POS interaction is not
-  needed or an option.
+  Используйте sparkkiosk, чтобы включить lightning платежи с помощью распечатанных QR-кодов в киосках самообслуживания / кафе или других местах, где взаимодействие с POS не требуется или не является опцией.
 
 
-  Log into the dashboard, create a new LNURL, set currency and amount and download QR to print. Monitor latest invoices.
+   Войдите в панель управления, создайте новый LNURL, установите валюту и сумму и загрузите QR для печати. Следите за последними счетами.
 developer: Jens Gertsen
 website: https://github.com/jensgertsen/sparkkiosk
 dependencies:
