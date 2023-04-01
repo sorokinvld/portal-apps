@@ -3,55 +3,51 @@ id: whoogle-search
 category: Networking
 name: Whoogle Search
 version: "0.8.0"
-tagline: A self-hosted, ad-free, privacy-respecting metasearch engine
+tagline: Самостоятельный, уважающий конфиденциальность метапоисковик без рекламы
 description: >-
-  Get Google search results, but without any ads, javascript, AMP links, 
-  cookies, or IP address tracking. Easily deployable in one 
-  click as a Docker app, and customizable with a single config file. 
-  Quick and simple to implement as a primary search engine replacement on 
-  both desktop and mobile.
+  Получите результаты поиска Google, но без рекламы, javascript, ссылок AMP, файлов cookie или отслеживания IP-адреса. Легко развертывается одним щелчком мыши как приложение Docker и настраивается с помощью одного файла конфигурации. Быстро и просто внедряется в качестве основной замены поисковой системы как на ПК, так и на мобильных устройствах.
+
+  - Без рекламы или спонсируемого контента
+
+  - Без JavaScript*
+
+  - Без cookies**
+
+  - Без отслеживания/привязки вашего личного IP-адреса***
+
+  - Без AMP links
+
+  - Без тегов отслеживания URL  (например, utm=%s)
+
+  - Без заголовка реферера
+
+  - Поддержка прокси-серверов Tor и HTTP/SOCKS
+
+  - Предложения автозаполнения/поиска
+
+  - Поиск POST-запросов и запросы предложений (когда возможно)
+
+  - Просмотр изображений в полном разрешении без перенаправления (в настоящее время только для мобильных устройств)
+
+  - Режимы светлой/темной/системной темы (с поддержкой пользовательских тем CSS)
+
+  - Случайно сгенерированный пользовательский агент
+
+  - Простота установки/развертывания
+
+  - Поиск в стиле DDG (например, !<tag> <query>)
+
+  - Дополнительный поиск на основе местоположения (например, результаты рядом с <city>)
+
+  - Дополнительный режим NoJS для просмотра результатов поиска в отдельном окне с заблокированным JavaScript
 
 
-  - No ads or sponsored content
-
-  - No JavaScript*
-
-  - No cookies**
-
-  - No tracking/linking of your personal IP address***
-
-  - No AMP links
-
-  - No URL tracking tags (i.e. utm=%s)
-
-  - No referrer header
-
-  - Tor and HTTP/SOCKS proxy support
-
-  - Autocomplete/search suggestions
-
-  - POST request search and suggestion queries (when possible)
-
-  - View images at full res without site redirect (currently mobile only)
-
-  - Light/Dark/System theme modes (with support for custom CSS theming)
-
-  - Randomly generated User Agent
-
-  - Easy to install/deploy
-
-  - DDG-style bang (i.e. !<tag> <query>) searches
-
-  - Optional location-based searching (i.e. results near <city>)
-
-  - Optional NoJS mode to view search results in a separate window with JavaScript blocked
+  *Нет стороннего JavaScript. Whoogle можно использовать с отключенным JavaScript, но если он включен, он использует JavaScript для таких вещей, как представление поисковых предложений.
 
 
-  *No third party JavaScript. Whoogle can be used with JavaScript disabled, but if enabled, uses JavaScript for things like presenting search suggestions.
+  **Никаких сторонних файлов cookie. Whoogle использует файлы cookie (сеансы) на стороне сервера для хранения неконфиденциальных параметров конфигурации, таких как тема, язык и т. д. Как и в случае с JavaScript, файлы cookie можно отключить, и они не повлияют на функции поиска Whoogle.
 
-  **No third party cookies. Whoogle uses server side cookies (sessions) to store non-sensitive configuration settings such as theme, language, etc. Just like with JavaScript, cookies can be disabled and not affect Whoogle's search functionality.
-
-  ***If deployed to a remote server, or configured to send requests through a VPN, Tor, proxy, etc.
+  ***Если развернуто на удаленном сервере или настроено на отправку запросов через VPN, Tor, прокси и т.д.
 
 developer: Ben Busby
 website: https://github.com/benbusby
