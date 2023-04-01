@@ -3,27 +3,26 @@ id: jam
 category: Finance
 name: Jam
 version: "0.1.5"
-tagline: Your sats. Your privacy. Your profit.
+tagline: Ваши Сатоши. Ваша конфиденциальность. Ваша прибыль.
 description: >-
-  Jam is a user-interface for JoinMarket with focus on
-  user-friendliness.
+  Jam — это пользовательский интерфейс для JoinMarket, ориентированный на удобство использования.
 
-  It is time for top-notch privacy for your bitcoin. Widespread use of JoinMarket improves bitcoin's fungibility and privacy for all.
+   Пришло время обеспечить первоклассную конфиденциальность для вашего Биткоина. Широкое использование JoinMarket улучшает взаимозаменяемость и конфиденциальность Биткоинов для всех.
 
 
-  The app provides sensible defaults and is easy to use for beginners while still providing the features advanced users expect.
+   Приложение предоставляет разумные значения по умолчанию и простое в использовании для новичков, в то же время предоставляя функции, ожидаемые опытными пользователями.
 releaseNotes: >-
-  - Fees: Allow min tx fee of 1sat/vbyte
+  - Тарифы: разрешена минимальная комиссия за транзакцию в размере 1 sat/vbyte.
 
-  - Fees: Allow input for relative fee limit of 0.0001%
+   - Сборы: Разрешить ввод относительного предела комиссии в размере 0,0001%
 
-  - Bonds: Correctly display success screen after unlocking fb
+   - Бонды: правильно отображать экран успеха после разблокировки fb.
 
-  - Sweep: Display success screen after a scheduler run completes
+   - Развертка: отображение экрана успеха после завершения запуска планировщика.
 
-  - Coin Control: Quick freeze/unfreeze utxos
+   - Управление монетами: быстрая заморозка/разморозка utxos
 
-  - Coin Control: Show jar total amount in detail view
+   - Управление монетами: отображение общего количества банок в подробном представлении
 developer: JoinMarket WebUI Org.
 website: https://jamapp.org
 dependencies:
