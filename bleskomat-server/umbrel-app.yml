@@ -3,12 +3,8 @@ id: bleskomat-server
 category: Wallet Servers
 name: Bleskomat Server
 version: "1.3.4"
-tagline: Connect a Bleskomat ATM to your Lightning node
-description: The Bleskomat ATM is the next generation Bitcoin Lightning ATM.
-  This app will allow you to easily connect your Bleskomat ATM to the Lightning
-  node on your Umbrel. A simple web interface is provided which you can use to
-  manage and authorize one or more Bleskomat ATMs as well as view a list of
-  recent payments handled by the server.
+tagline: Подключите Bleskomat ATM к вашем Lightning узле
+description: Банкомат Bleskomat — это банкомат Bitcoin Lightning следующего поколения. Это приложение позволит вам легко подключить банкомат Bleskomat к узлу Lightning на вашем Umbrel. Предоставляется простой веб-интерфейс, который можно использовать для управления и авторизации одного или нескольких банкоматов Bleskomat, а также для просмотра списка последних платежей, обработанных сервером.
 developer: Bleskomat
 website: https://www.bleskomat.com
 dependencies:
