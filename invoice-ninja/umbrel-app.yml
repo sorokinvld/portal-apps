@@ -3,11 +3,11 @@ id: invoice-ninja
 category: Finance
 name: Invoice Ninja
 version: "v5.5.93"
-tagline: We’ll help with the invoicing
+tagline: Поможем с выставлением счета
 description: |-
-  Invoicing, Quotes, Expenses, Tasks.
+   Выставление счетов, Предложения, Расходы, Задачи.
 
-  Invoice Ninja is an invoicing application which makes sending invoices and receiving payments simple and easy. Our latest version is a clean slate rewrite of our popular invoicing application which builds on the existing feature set and adds a wide range of features and enhancements the community has asked for.
+   Invoice Ninja — это приложение для выставления счетов, которое делает отправку счетов и получение платежей простыми и легкими. Наша последняя версия — это полностью переработанная версия нашего популярного приложения для выставления счетов, которое основано на существующем наборе функций и добавляет широкий спектр функций и улучшений, о которых просило сообщество.
 developer: InvoiceNinja, Inc.
 website: https://invoiceninja.com
 dependencies: []
