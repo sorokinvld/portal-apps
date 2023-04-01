@@ -3,23 +3,22 @@ id: usocial
 category: Social
 name: usocial
 version: "0.1.7-build-1"
-tagline: Read. Listen. Pay back.
+tagline: Читай. Слушай. Вознаграждай.
 description: >-
-  The podcast client and feed reader for your personal server. With
-  Lightning Network support.
+  Клиент подкастов и программа для чтения каналов для вашего персонального сервера. С поддержкой Lightning Network.
 
 
-  - Simple interface (minimalist HN-like design)
+  - Простой интерфейс (минималистический дизайн в стиле HN)
 
-  - Optionally multi-user
+  - Опционально многопользовательский
 
-  - Decentralized karma
+  - Децентрализованная карма
 
-  - Clean code (Python / Flask / SQLite)
+  - Чистый код (Python / Flask / SQLite)
 
-  - Search podcasts from Podcast Index
+  - Поиск подкастов из Podcast Index
 
-  - Support for the Podcasting 2.0 value tag, sending Bitcoin payments to podcast creators over the Lightning Network
+  - Поддержка тега значения Podcasting 2.0, отправка платежей в биткойнах создателям подкастов через сеть Lightning.
 developer: Ioan Bizău
 website: http://usocial.me
 dependencies:
