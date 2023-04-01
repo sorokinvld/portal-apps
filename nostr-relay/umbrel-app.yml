@@ -5,19 +5,17 @@ name: Nostr Relay
 version: "1.0.0"
 tagline: Сделайте резервную копию всей вашей активности Nostr с помощью вашего частного ретранслятора
 description: >
-  Introducing Nostr Relay — an official app by Umbrel.
+  Nostr Relay — официальное приложение от Umbrel.
+  
+   Подключите своих клиентов Nostr, таких как Damus, Astral и Amethyst, к своему частному ретранслятору для бесперебойного резервного копирования всей вашей активности на Nostr. Это гарантирует, что ваша активность не будет потеряна, даже если вы подвергнуты цензуре или заблокированы публичными ретрансляторами.
+
+   В Damus перейдите в «Настройки» > «Relays», чтобы добавить URL-адрес вашего Relay.
+
+
+   Совет. Установите Tailscale на свой Umbrel и ваши устройства, чтобы обеспечить бесперебойное соединение между вашими клиентами и ретранслятором, даже если вы находитесь вдали от домашней сети. Включите MagicDNS Tailscale и используйте ws://umbrel:4848 в качестве URL-адреса ретрансляции.
 
   
-  Connect your Nostr clients, such as Damus, Astral, and Amethyst, to your private relay for seamless backup of all your activity on Nostr. This ensures that your activity is not lost even if you are censored or blocked by public relays.
-
-  
-  In Damus, go to Settings > Relays to add your Relay URL.
-
-  
-  Tip: Install Tailscale on your Umbrel and your devices for an uninterrupted connection between your clients and your relay, even when you're away from your home network. Enable Tailscale's MagicDNS and use ws://umbrel:4848 as your Relay URL.
-
-  
-  Nostr Relay is powered by the open source nostr-rs-relay project — a Rust implementation of Nostr relay. It currently supports the entire relay protocol, including NIP-01, NIP-02, NIP-03, NIP-05, NIP-09, NIP-11, NIP-12, NIP-15, NIP-16, NIP-20, NIP-22, NIP-26, NIP-28, and NIP-33.
+   Nostr Relay работает на основе проекта nostr-rs-relay с открытым исходным кодом — реализации Nostr relay на Rust. В настоящее время он поддерживает весь протокол реле, включая NIP-01, NIP-02, NIP-03, NIP-05, NIP-09, NIP-11, NIP-12, NIP-15, NIP-16, NIP-20, NIP-22, NIP-26, NIP-28, and NIP-33.
 releaseNotes: ""
 developer: Umbrel
 website: https://umbrel.com
