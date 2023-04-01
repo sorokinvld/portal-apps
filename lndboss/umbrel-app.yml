@@ -3,13 +3,8 @@ id: lndboss
 category: Lightning Node Management
 name: LndBoss
 version: "2.17.3"
-tagline: A GUI for BalanceOfSatoshis
-description: LndBoss is a GUI for BalanceOfSatoshis.
-  It is a tool that makes it easy to run your favorite
-  bos commands and helps manage your lightning node.
-  You can schedule jobs to automatically rebalance channels,
-  auto update fees based on policies, open balanced/group channels with other nodes,
-  integration with amboss to post updates and much more.
+tagline: Графический интерфейс для BalanceOfSatoshis
+description: LndBoss — это графический интерфейс для BalanceOfSatoshis. Это инструмент, который позволяет легко запускать ваши любимые команды bos и помогает управлять вашим Lightning узлом. Вы можете планировать задания для автоматической перебалансировки каналов, автоматических сборов за обновление на основе политик, открытия сбалансированных/групповых каналов с другими узлами, интеграции с amboss для публикации обновлений и многого другого.
 developer: Nitesh Balusu
 website: https://github.com/niteshbalusu11
 dependencies:
@@ -25,17 +20,17 @@ path: ""
 defaultUsername: ""
 defaultPassword: ""
 releaseNotes: >
-  - 2.17.3 (2023-02-23)
-    Fixed a bug where old config is being used for auto fees updates.
+  - 2.17.3 (23 февраля 2023 г.)
+     Исправлена ошибка, из-за которой старая конфигурация использовалась для обновления автоматических комиссий.
 
-  - 2.17.1 (2023-02-14)
-    Fixed condition for auto-fees when outbound/capacity ratio is zero.
+   - 2.17.1 (14 февраля 2023 г.)
+     Исправлено условие для автоматических комиссий, когда отношение исходящих/мощностей равно нулю.
 
-  - 2.17.0 (2023-01-31)
-    Added avoid-high-fee-routes to probe command.
-    Added avoid high-fee-routes to pay command.
-    Added avoid high-fee-routes to send command.
-    Added support for calling acceptsChannelOpen, connectPeer, findKey and getNetwork to call command.
+   - 2.17.0 (31 января 2023 г.)
+     В команду probe добавлены маршруты избегания высоких комиссий.
+     Добавлена команда избегать маршрутов с высокой комиссией для оплаты.
+     Добавлено избегание маршрутов с высокой оплатой для отправки команды.
+     Добавлена поддержка вызова acceptsChannelOpen, connectPeer, findKey и getNetwork для вызова команды.
 
 submitter: Nitesh Balusu
 submission: https://github.com/getumbrel/umbrel-apps/pull/65
