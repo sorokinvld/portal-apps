@@ -3,39 +3,39 @@ id: nitter
 category: Social
 name: Nitter
 version: "20220908"
-tagline: Browse Twitter without tracking or ads
+tagline: Просматривайте Twitter без отслеживания и рекламы
 description: >
-  Nitter is a free and open source alternative Twitter front-end focused on privacy and performance.
+  Nitter — это бесплатный альтернативный интерфейс Twitter с открытым исходным кодом, ориентированный на конфиденциальность и производительность.
 
 
-  It's impossible to use Twitter without JavaScript enabled. For privacy-minded folks, preventing JavaScript analytics and IP-based tracking is important, but apart from using a VPN and uBlock/uMatrix, it's impossible. Despite being behind a VPN and using heavy-duty adblockers, you can get accurately tracked with your browser's fingerprint, no JavaScript required. This all became particularly important after Twitter removed the ability for users to control whether their data gets sent to advertisers.
+   Невозможно использовать Twitter без включенного JavaScript. Для людей, заботящихся о конфиденциальности, важно предотвратить аналитику JavaScript и отслеживание на основе IP, но без использования VPN или uBlock/uMatrix, это невозможно. Несмотря на то, что вы находитесь в VPN и используете мощные блокировщики рекламы, вы можете точно отслеживаться с помощью fingerprint вашего браузера, не требуя JavaScript. Все это стало особенно важным после того, как Twitter лишил пользователей возможности контролировать, отправляются ли их данные рекламодателям.
 
 
-  Using an instance of Nitter hosted on your Umbrel, you can browse Twitter without JavaScript while retaining your privacy. In addition to respecting your privacy, Nitter is on average around 15 times lighter than Twitter, and in most cases serves pages faster (eg. timelines load 2-4x faster).
+   Используя экземпляр Nitter, размещенный на вашем Umbrel, вы можете просматривать Twitter без JavaScript, сохраняя при этом свою конфиденциальность. В дополнение к соблюдению вашей конфиденциальности, Nitter в среднем примерно в 15 раз легче, чем Twitter, и в большинстве случаев обслуживает страницы быстрее (например, временные шкалы загружаются в 2-4 раза быстрее).
 
 
-  In the future a simple account system will be added that lets you follow Twitter users, allowing you to have a clean chronological timeline without needing a Twitter account.
+   В будущем будет добавлена простая система учетных записей, которая позволит вам следить за пользователями Twitter, что позволит вам иметь четкую хронологическую шкалу времени без необходимости наличия учетной записи Twitter.
 
 
-  Features:
+   Функции:
 
-  - No JavaScript or ads
+   - Нет JavaScript или рекламы
 
-  - All requests go through the backend, client never talks to Twitter
+   - Все запросы проходят через серверную часть, клиент никогда не общается с Twitter
 
-  - Prevents Twitter from tracking your IP or JavaScript fingerprint
+   - Предотвращает отслеживание Twitter вашего IP-адреса или JavaScript-отпечатка.
 
-  - Uses Twitter's unofficial API (no rate limits or developer account required)
+   - Использует неофициальный API Твиттера (не требуются ограничения скорости или учетная запись разработчика)
 
-  - Lightweight (for @nim_lang, 60KB vs 784KB from twitter.com)
+   - Легкий (для @nim_lang, 60 КБ против 784 КБ из twitter.com)
 
-  - RSS feeds
+   - RSS-каналы
 
-  - Themes
+   - Темы
 
-  - Mobile support (responsive design)
+   - Мобильная поддержка (отзывчивый дизайн)
 
-  - AGPLv3 licensed, no proprietary instances permitted
+   - Лицензия AGPLv3, не разрешены проприетарные экземпляры
 
 developer: Zedeus
 website: https://github.com/zedeus
