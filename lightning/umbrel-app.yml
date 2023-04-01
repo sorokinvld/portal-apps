@@ -3,39 +3,39 @@ id: lightning
 category: Finance
 name: Lightning Node
 version: "0.15.5-beta-2"
-tagline: Run your personal Lightning Network node
+tagline: Запустите свой личный узел Lightning Network
 description: >-
-  Run your personal Lightning Network node, and join the future of Bitcoin today.
+  Запустите свой личный узел Lightning Network и присоединитесь к будущему Биткойн уже сегодня.
 
 
-  The Lightning Network allows ultra cheap and almost instant Bitcoin transactions. By running a Lightning node, you can not only self-custody your Bitcoin on Lightning, but also earn sats by routing payments on the network.
+   Сеть Lightning позволяет проводить сверхдешевые и почти мгновенные транзакции в Биткоинах. Запустив узел Lightning, вы можете не только самостоятельно хранить свои Биткоины на Lightning, но и зарабатывать сатоши, направляя платежи в сети.
 
 
-  Connect Zeus Wallet, Zap, or any other wallet that supports lndconnect to remotely manage and access your node from anywhere.
+   Подключите Zeus Wallet, Zap или любой другой кошелек, поддерживающий lndconnect, для удаленного управления и доступа к вашему узлу из любого места.
 
 
-  With the Advanced Settings feature, you can take control of your node and customize it to your needs. Personalize it with a name, enable larger channels, limit channel sizes, set your routing fees, optimize your routing strategy, add watchtower services, fine-tune its performance, and much more.
+   С помощью функции «Дополнительные настройки» вы можете взять под контроль свой узел и настроить его в соответствии со своими потребностями. Персонализируйте его с помощью имени, включите более крупные каналы, ограничьте размеры каналов, установите плату за маршрутизацию, оптимизируйте стратегию маршрутизации, добавьте службы сторожевой башни, настройте его производительность и многое другое.
 
 
-  Powered by LND.
+   Работает на ЛНД.
 
 
-  An official app from Umbrel.
+   Официальное приложение от Umbrel.
 releaseNotes: >-
-  Introducing Advanced Settings. Take control of your node and customize it to your needs.
+  Представляем расширенные настройки. Возьмите под свой контроль узел и настройте его в соответствии со своими потребностями.
 
 
-  - Personalize your node by giving it a name and color.
+   - Персонализируйте свой узел, дав ему имя и цвет.
 
-  - Enable larger channels, and limit channel sizes.
+   - Включите более крупные каналы и ограничьте размеры каналов.
 
-  - Set your routing fees, and optimize your routing strategy.
+   - Установите комиссию за маршрутизацию и оптимизируйте стратегию маршрутизации.
 
-  - Add watchtower services to guard your channels, and run a service for others.
+   - Добавьте службы сторожевой башни для защиты своих каналов и запустите службу для других.
 
-  - Fine-tune the performance and resource usage of your node.
+   - Тонкая настройка производительности и использования ресурсов вашего узла.
 
-  - And much more!
+   - И многое другое!
 developer: Umbrel
 website: https://umbrel.com
 dependencies:
