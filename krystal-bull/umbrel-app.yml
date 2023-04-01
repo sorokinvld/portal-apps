@@ -3,24 +3,22 @@ id: krystal-bull
 category: Finance
 name: Krystal Bull
 version: "1.9.7"
-tagline: Become an oracle and create Bitcoin bets
+tagline: Станьте оракулом и делайте ставки в Биткоин
 description: >-
-  Krystal Bull allows you to become a Bitcoin oracle. An oracle
-  allows information from the real world (financial markets, sporting events,
-  elections, etc) to be used to create and settle Bitcoin bets.
+  rystal Bull позволяет вам стать биткойн-оракулом. Оракул
+   позволяет использовать информацию из реального мира (финансовые рынки, спортивные события, выборы и т. д.) для создания и расчета ставок в Биткоинах.
 
 
-  The oracle is a crucial component for Discreet Log Contracts (DLC). Without a trustworthy oracle, you cannot create a bet on Bitcoin using DLCs. Trustworthy oracles are a building block to realizing Bitcoin DeFi.
+   Оракул является важным компонентом Discreet Log Contracts (DLC). Без надежного оракула вы не можете сделать ставку на Биткоин с помощью DLC. Надежные оракулы являются строительным блоком для реализации Bitcoin DeFi.
 
 
-  To see some example oracles, please visit oracle.suredbits.com.
+   Чтобы увидеть некоторые примеры оракулов, посетите oracle.suredbits.com.
 
-
-  WARNING: This version of Krystal Bull is an early alpha release for testing. It's not secure, please don't use it for anything serious.
+  WARNING: Эта версия Krystal Bull является ранней альфа-версией для тестирования. Это небезопасно, пожалуйста, не используйте его ни для чего серьезного.
 releaseNotes: >-
   Update to the 1.9.7 release of bitcoin-s
   
-  This release provides a well defined ordering for nonces in announcements.
+  В этом выпуске четко определен порядок одноразовых номеров в объявлениях.
 developer: SuredBits
 website: https://suredbits.com/
 dependencies: []
