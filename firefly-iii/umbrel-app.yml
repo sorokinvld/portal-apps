@@ -3,34 +3,35 @@ id: firefly-iii
 category: Finance
 name: Firefly III
 version: "5.7.18"
-tagline: Your personal finance manager
+tagline: Ваш личный финансовый менеджер
 description: >-
-  Firefly III is a manager for your personal finances. It is self-hosted and open source. This means that it's free, it has no ads and no tracking.
+ For the advanced and mobile users out there, Firefly III features an expansive JSON REST API that allows you to tap into Firefly III's most important features. Create transactions, manage categories and get chart data from any app or system.
+  Firefly III — это менеджер ваших личных финансов. Он является самостоятельным и с открытым исходным кодом. Это означает, что он бесплатный, в нем нет рекламы и отслеживания.
 
 
-  Full transaction management
+   Полное управление транзакциями
 
-  Firefly III features a double-entry bookkeeping system. You can quickly enter and organize your transactions in multiple currencies.
-
-
-  Advanced rule engine
-
-  Use rules to quickly convert shorthands to detailed transactions or clean up your bank's abysmal CSV files.
+   Firefly III имеет систему двойной записи. Вы можете быстро вводить и организовывать свои транзакции в нескольких валютах.
 
 
-  Budgets, categories and tags
+   Расширенный механизм правил
 
-  Name your poison. Do you like to work with tags? Need to budget your expenses? Want to categorize all of your hobby expenses? Look no further. Firefly III supports all kinds. Budgets can be expanded with limits in multiple currencies, so you can budget both your daily household expenses and what you spend in Imperial Credits when visiting Tatooine.
-
-
-  Informative reports
-
-  Firefly III has advanced reporting capabilities, showing your expenses per week, month or year. But it can also help you audit your accounts with detailed list views. Or perhaps compare budgets or tags? It's all possible.
+   Используйте правила для быстрого преобразования сокращений в подробные транзакции или очистите бездонные CSV-файлы вашего банка.
 
 
-  JSON rest API
+   Бюджеты, категории и теги
 
-  For the advanced and mobile users out there, Firefly III features an expansive JSON REST API that allows you to tap into Firefly III's most important features. Create transactions, manage categories and get chart data from any app or system.
+   Назовите свой яд. Нравится ли вам работать с тегами? Нужно планировать расходы? Хотите классифицировать все расходы на хобби? Не смотрите дальше. Firefly III поддерживает все виды. Бюджеты могут быть расширены за счет ограничений в нескольких валютах, поэтому вы можете планировать как свои ежедневные расходы на домашнее хозяйство, так и то, что вы тратите в имперских кредитах при посещении Татуина.
+
+
+   Информативные отчеты
+
+   Firefly III имеет расширенные возможности отчетности, показывая ваши расходы за неделю, месяц или год. Но это также может помочь вам проверить свои учетные записи с помощью подробных списков. Или, возможно, сравнить бюджеты или теги? Все возможно.
+
+
+   API для отдыха JSON
+
+   Для продвинутых и мобильных пользователей Firefly III предлагает расширенный JSON REST API, который позволяет использовать самые важные функции Firefly III. Создавайте транзакции, управляйте категориями и получайте данные диаграмм из любого приложения или системы.
 developer: Firefly III
 website: https://www.firefly-iii.org/
 dependencies: []
