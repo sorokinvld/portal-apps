@@ -3,44 +3,44 @@ id: immich
 category: Files
 name: Immich
 version: "v1.40.1_63-dev"
-tagline: High performance photo and video backup solution
+tagline: Высокопроизводительное решение для резервного копирования фото и видео
 description: >-
-  An open source and high performance self-hosted backup solution for the videos and photos on your mobile device
+  Высокопроизводительное решение для резервного копирования с открытым исходным кодом для видео и фотографий на вашем мобильном устройстве.
 
   
-  Features:
+   Функции:
   
-  - Upload and view videos and photos
+   - Загружать и просматривать видео и фотографии
   
-  - Auto backup when the app is opened
+   - Автоматическое резервное копирование при открытии приложения
   
-  - Selective album(s) for backup
+   - Отдельные альбомы для резервного копирования
   
-  - Download photos and videos to local device
+   - Загрузка фотографий и видео на локальное устройство
   
-  - Multi-user support
+   - Многопользовательская поддержка
   
-  - Album and Shared albums
+   - Альбом и общие альбомы
   
-  - Scrubbable/draggable scrollbar
+   - Прокручиваемая/перетаскиваемая полоса прокрутки
   
-  - Support RAW (HEIC, HEIF, DNG, Apple ProRaw)
+   - Поддержка RAW (HEIC, HEIF, DNG, Apple ProRaw)
   
-  - Metadata view (EXIF, map)
+   - Просмотр метаданных (EXIF, карта)
   
-  - Search by metadata, objects and image tags
+   - Поиск по метаданным, объектам и тегам изображений
   
-  - Administrative functions (user management)
+   - Административные функции (управление пользователями)
   
-  - Background backup
+   - Фоновое резервное копирование
   
-  - Virtual scroll
+   - Виртуальный свиток
   
-  - OAuth support
+   - Поддержка OAuth
   
-  - LivePhoto backup and playback
+   - Резервное копирование и воспроизведение LivePhoto
   
-  - User-defined storage structure
+   - Пользовательская структура хранения
 releaseNotes: ""
 developer: Alex Tran
 website: https://www.immich.app
