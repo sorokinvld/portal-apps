@@ -3,16 +3,12 @@ id: syncthing
 category: Files
 name: Syncthing
 version: "1.23.2"
-tagline: Peer-to-peer file synchronization between your devices
+tagline: Одноранговая синхронизация файлов между вашими устройствами
 description: >-
-  Syncthing is a peer-to-peer continuous file synchronization
-  program. It synchronizes files between two or more computers in real time,
-  safely protected from prying eyes. Your data is your data alone and you
-  deserve to choose where it is stored, whether it is shared with some third
-  party, and how it's transmitted over the internet.
+  Syncthing — это программа для непрерывной одноранговой синхронизации файлов. Он синхронизирует файлы между двумя и более компьютерами в режиме реального времени, надежно защищенный от посторонних глаз. Ваши данные — это только ваши данные, и вы имеете право выбирать, где они будут храниться, будут ли они переданы какой-либо третьей стороне и как они будут передаваться через Интернет.
 
 
-  Install the Syncthing app on your Umbrel and pair it with the Syncthing app on your phone or computer for a self hosted peer-to-peer backup solution.
+   Установите приложение Syncthing на свой Портал и соедините его с приложением Syncthing на своем телефоне или компьютере, чтобы получить автономное решение для однорангового резервного копирования.
 developer: The Syncthing Foundation
 website: https://syncthing.net
 dependencies: []
