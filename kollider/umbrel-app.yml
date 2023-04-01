@@ -3,19 +3,18 @@ id: kollider
 category: Finance
 name: Kollider
 version: "1.0.7"
-tagline: Lightning-fast derivative trading
+tagline: Молниеносная торговля деривативами
 description: >-
-  Kollider lets you instantly trade perpetual contracts with low fees
-  and up to 100x buying power.
+  Kollider позволяет мгновенно торговать бессрочными контрактами с низкой комиссией и до 100-кратного увеличения покупательной способности.
 
 
-  No need to pre-fund a trading account, each trade settles directly from your own wallet or even from your own lightning node in milliseconds.
+   Нет необходимости предварительно пополнять торговый счет, каждая сделка рассчитывается непосредственно из вашего собственного кошелька или даже из вашего собственного узла молнии за миллисекунды.
 
 
-  The Kollider Umbrel App lets you use the Lightning Network to get instant exposure to a range of products using Bitcoin, directly from your Umbrel node.
+   Приложение Kollider Umbrel позволяет вам использовать сеть Lightning для мгновенного доступа к целому ряду продуктов, использующих биткойн, прямо с вашего узла Umbrel.
 
 
-  More features coming soon!
+   Скоро появится больше возможностей!
 developer: Kollider
 website: https://kollider.xyz
 dependencies:
