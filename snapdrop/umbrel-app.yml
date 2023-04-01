@@ -3,21 +3,19 @@ id: snapdrop
 category: Files
 name: Snapdrop
 version: "f769a766"
-tagline: Opensource Airdrop Alternative
+tagline: Альтернатива Airdrop с открытым исходным кодом
 description: >-
-  Snapdrop - local file sharing in your browser. Inspired by Apple's Airdrop.
+  Snapdrop — локальный обмен файлами в вашем браузере. Вдохновлен Airdrop от Apple.
 
-
-
-  Snapdrop is built with the following awesome technologies:
+   Snapdrop построен с использованием следующих замечательных технологий:
   
-  - Vanilla HTML5 / ES6 / CSS3 frontend
+   - Ванильный интерфейс HTML5 / ES6 / CSS3
 
-  - WebRTC / WebSockets
+   - WebRTC / веб-сокеты
 
-  - NodeJS backend
+   - Бэкэнд NodeJS
 
-  - Progressive Web App (PWA)
+   - Прогрессивное веб-приложение (PWA)
 developer: RobinLinus
 website: https://snapdrop.net/
 dependencies: []
