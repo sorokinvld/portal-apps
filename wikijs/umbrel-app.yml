@@ -3,18 +3,18 @@ id: wikijs
 category: Development
 name: WikiJS
 version: "2.5.294"
-tagline: Make documentation a joy to write
+tagline: Сделайте документацию приятной для написания
 description: >-
-  The most powerful and extensible open source Wiki software.
+  Самое мощное и расширяемое программное обеспечение Wiki с открытым исходным кодом.
 
 
-  Not all teams need the same set of features. That's why Wiki.js offers a wide range of modules that can be turned on/off on demand.
+  Не всем командам нужен одинаковый набор функций. Вот почему Wiki.js предлагает широкий спектр модулей, которые можно включать и выключать по запросу.
 
 
-  It's not just about being free, it also means anyone can contribute new features and help squash bugs. Wiki.js is proudly licensed under AGPLv3.
+  Речь идет не только о том, чтобы быть бесплатным. Каждый также может вносить новые функции и помогать устранять ошибки. Wiki.js распространяется под лицензией AGPLv3.
 
 
-  Connect your wiki with an ever-expanding list of external integrations for authentication, logging, rendering, search and storage.
+  Подключите свою wiki к постоянно расширяющемуся списку внешних интеграций для аутентификации, ведения журнала, рендеринга, поиска и хранения.
 developer: Requarks
 website: https://js.wiki/
 dependencies: []
