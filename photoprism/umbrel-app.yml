@@ -3,30 +3,27 @@ id: photoprism
 category: Files
 name: PhotoPrism
 version: "221105"
-tagline: Self-host your photo and video library
+tagline: Самостоятельно размещайте свою фото- и видеотеку
 description: >-
-  PhotoPrism® is a privately hosted app for browsing, organizing, and
-  sharing your photo collection. It makes use of the latest technologies to tag
-  and find pictures automatically without getting in your way. Say goodbye to
-  solutions that force you to upload your visual memories to the cloud!
+  PhotoPrism® — это частное приложение для просмотра, организации и обмена вашей коллекцией фотографий. Оно использует новейшие технологии для автоматической маркировки и поиска изображений. Попрощайтесь с решениями, которые заставляют вас загружать ваши визуальные воспоминания в облако!
 
 
-  - Our intuitive user interface makes browsing and organizing your photo collection as easy as it should be — whether it’s on a phone, tablet, or desktop computer.
+   - Наш интуитивно понятный пользовательский интерфейс делает просмотр и упорядочивание вашей коллекции фотографий настолько простыми, насколько это должно быть — будь то на телефоне, планшете или настольном компьютере.
 
 
-  - Index everything without worrying about duplicates or RAW to JPEG conversion.
+   - Индексируйте все, не беспокоясь о дубликатах или преобразовании RAW в JPEG.
 
 
-  - Automatic image classification based on Google TensorFlow. In addition, our indexer detects colors, chroma, luminance, quality, panoramic projection, location type, and many other properties.
+   - Автоматическая классификация изображений на основе Google TensorFlow. Кроме того, наш индексатор определяет цвета, насыщенность, яркость, качество, панорамную проекцию, тип местоположения и многие другие свойства.
 
 
-  - Includes four high-resolution world maps to see where you've been, and for rediscovering long-forgotten shots.
+   - Включает в себя четыре карты мира в высоком разрешении, чтобы увидеть, где вы были, и заново открыть для себя давно забытые моменты.
 
 
-  - WebDAV clients, like Microsoft’s Windows Explorer or Apple's Finder, may connect directly to PhotoPrism so that you to can open, edit, and delete files from your computer or phone as if they were local. You may easily sync your pictures with PhotoSync as well.
+   - Клиенты WebDAV, такие как Microsoft Windows Explorer или Apple Finder, могут напрямую подключаться к PhotoPrism, чтобы вы могли открывать, редактировать и удалять файлы на своем компьютере или телефоне, как если бы они были локальными. Вы также можете легко синхронизировать свои фотографии с PhotoSync.
 
 
-  - Because PhotoPrism is built as a progressive web app, it provides a native app-like experience, and you may install it on your home screen. There's also a community-maintained native app in development.
+   - Поскольку PhotoPrism создан как прогрессивное веб-приложение, оно обеспечивает работу, подобную родному приложению, и вы можете установить его на домашний экран. Также в разработке находится нативное приложение, поддерживаемое сообществом.
 developer: PhotoPrism
 website: https://photoprism.app
 dependencies: []
