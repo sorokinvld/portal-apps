@@ -3,13 +3,11 @@ id: woofbot
 category: Finance
 name: WoofBot (without Lightning)
 version: "0.7.1"
-tagline: A chatbot for your personal node
+tagline: Чат-бот для вашей личного узла
 description: >-
-  WoofBot is a chat bot that runs on your personal Bitcoin node and sends telegram notifications
-  based on pre-configured conditions: addresses, transactions, new-blocks and price changes.
+  WoofBot — это чат-бот, который работает на вашем личном узле Биткойн и отправляет уведомления на основе предварительно настроенных условий: адресов, транзакций, новых блоков и изменений цен.
 
-  This version of WoofBot requires only Bitcoin Core to be installed, and does not integrate with
-  any lightning api.
+  та версия WoofBot требует установки только Bitcoin Core и не интегрируется ни с одним lightning api.
 developer: WoofBotApp
 website: https://github.com/woofbotapp
 dependencies:
