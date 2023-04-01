@@ -3,12 +3,12 @@ id: file-browser
 category: Files
 name: File Browser
 version: "2.22.4"
-tagline: Browse and manage the files you download on your Umbrel
+tagline: Просматривайте и управляйте файлами, которые вы загружаете на свой Umbrel.
 description: >-
-  File Browser lets you upload, delete, preview, rename and edit your folders and files.
+  Браузер файлов позволяет загружать, удалять, просматривать, переименовывать и редактировать папки и файлы.
 
 
-  Easily manage files in the Umbrel's storage folder where your downloads from apps like Transmission, Sonarr, Radarr, and Lidarr are currently held.
+   Легко управляйте файлами в папке хранилища Umbrel, где в настоящее время хранятся ваши загрузки из таких приложений, как Transmission, Sonarr, Radarr и Lidarr.
 developer: File Browser
 website: https://filebrowser.org/
 dependencies: []
