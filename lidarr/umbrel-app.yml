@@ -3,15 +3,9 @@ id: lidarr
 category: Media
 name: Lidarr
 version: "3.0.9"
-tagline: Looks and smells like Sonarr but made for music
+tagline: Выглядит и ощущается как Sonarr, но для музыки
 description: >-
-  Lidarr is a music collection manager for Usenet and BitTorrent users.
-  
-  
-  It can monitor multiple RSS feeds for new albums from your favorite artists and will interface with clients and indexers to grab, sort, and rename them.
-  
-  
-  It can also be configured to automatically upgrade the quality of existing files in the library when a better quality format becomes available.
+  LiDarr - менеджер музыкальных коллекций для пользователей Usenet и BitTorrent. Он может контролировать несколько RSS-каналов для новых альбомов от ваших любимых артистов и будет взаимодействовать с клиентами и индексаторами, чтобы собирать, сортировать и переименовывать их. Он также может быть настроен для автоматического обновления качества существующих файлов в библиотеке, когда становится доступным формат лучшего качества.
 developer: Lidarr
 website: https://lidarr.audio/
 dependencies:
