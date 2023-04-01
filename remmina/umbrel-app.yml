@@ -3,28 +3,23 @@ id: remmina
 category: Networking
 name: Remmina
 version: "1.4.2"
-tagline: Remote access screen and file sharing
+tagline: Экран удаленного доступа и обмен файлами
 description: >-
-  Use other desktops remotely, from a tiny screen or large monitors.
+  Используйте другие рабочие столы удаленно, с крошечного экрана или больших мониторов.
 
 
-  - RDP, VNC, SPICE, X2Go, SSH, WWW (HTTP protocol) and EXEC network protocols are supported.
+   - Поддерживаются сетевые протоколы RDP, VNC, SPICE, X2Go, SSH, WWW (протокол HTTP) и EXEC.
   
   
-  - Written in GTK, with a port to Qt underway.
+   - Написано на GTK, в процессе перенос на Qt.
 
 
-  - Released as "remmina" (the main program) and "remmina-plugins".
+   - Выпускается как "remmina" (основная программа) и "remmina-плагины".
 
 
-  - Remmina is copylefted libre software.
+   - Remmina является свободным программным обеспечением.
 
-
-  What is libre software?
-
-
-  The ability to use, see, modify, and share with all.
-  Requiring sharing on equal terms is what (additionally) makes it copyleft, meaning none of these software freedoms can be taken away.
+  
 developer: Remmina
 website: https://remmina.org
 dependencies: []
