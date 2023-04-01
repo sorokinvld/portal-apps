@@ -3,9 +3,9 @@ id: sonarr
 category: Media
 name: Sonarr
 version: "3.0.9"
-tagline: Smart PVR for newsgroup and bittorrent users
+tagline: Умный PVR для групп новостей и пользователей BitTorrent
 description: >-
-  Sonarr is a PVR for Usenet and BitTorrent users. It can monitor multiple RSS feeds for new episodes of your favorite shows and will grab, sort and rename them. It can also be configured to automatically upgrade the quality of files already downloaded when a better quality format becomes available.
+  Sonarr — это PVR для пользователей Usenet и BitTorrent. Он может отслеживать несколько RSS-каналов для новых эпизодов ваших любимых шоу и будет захватывать, сортировать и переименовывать их. Его также можно настроить на автоматическое обновление качества уже загруженных файлов, когда станет доступен формат более высокого качества.
 developer: Sonarr
 website: https://sonarr.tv/
 dependencies:
