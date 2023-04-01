@@ -3,18 +3,18 @@ id: passky-server
 category: Password Managers
 name: Passky Server
 version: "8.1.4"
-tagline: Simple, modern, lightweight, open source and secure password manager
+tagline: Простой, современный, легкий, с открытым исходным кодом и безопасный менеджер паролей
 description: >-
-  With Passky, you can easily and securely store all of your passwords in one place.
+  С Passky вы можете легко и безопасно хранить все свои пароли в одном месте.
   
   
-  Say goodbye to the hassle of remembering multiple complex passwords - with Passky, all you need is one master password to access all of your accounts.
+   Попрощайтесь с необходимостью запоминать несколько сложных паролей — с Passky все, что вам нужно, — это один мастер-пароль для доступа ко всем вашим учетным записям.
   
   
-  Passky uses advanced encryption technology to keep your passwords safe and secure, so you can have peace of mind knowing that your sensitive information is protected.
+   Passky использует передовые технологии шифрования для обеспечения безопасности ваших паролей, поэтому вы можете быть спокойны, зная, что ваша конфиденциальная информация защищена.
   
   
-  Plus, Passky is easy to use and available on all of your devices, so you can access your passwords wherever you go. Try Passky today and take control of your online security!
+   Кроме того, Passky прост в использовании и доступен на всех ваших устройствах, поэтому вы можете получить доступ к своим паролям, где бы вы ни находились. Попробуйте Passky сегодня и возьмите под контроль свою онлайн-безопасность!
 developer: Rabbit Company LLC
 website: https://passky.org
 dependencies: []
