@@ -3,20 +3,20 @@ id: libreddit
 category: Social
 name: LibReddit
 version: "0.22.9"
-tagline: An alternative private front-end to Reddit
+tagline: Альтернативный частный интерфейс для Reddit
 description: >-
-  Libreddit is a portmanteau of "libre" (meaning freedom) and "Reddit".
-  Libreddit hopes to provide an easier way to browse Reddit, without the ads, trackers, and bloat. 
-  Browse r/bitcoin without being tracked.
+  Libreddit представляет собой смесь слов «libre» (что означает «свобода») и «Reddit».
+   Libreddit надеется предоставить более простой способ просмотра Reddit, без рекламы, трекеров и наворотов.
+   Просматривайте r/bitcoin без отслеживания.
 
 
-  - 🚀 Fast: written in Rust for blazing-fast speeds and memory safety
+   - 🚀 Быстрый: написан на Rust для высокой скорости и безопасности памяти.
   
-  - ☁️ Light: no JavaScript, no ads, no tracking, no bloat
+   - ☁️ Легкий: без JavaScript, без рекламы, без отслеживания, без наворотов
   
-  - 🕵 Private: all requests are proxied through the server, including media
+   - 🕵 Приватный: все запросы проксируются через сервер, включая медиа
   
-  - 🔒 Secure: strong Content Security Policy prevents browser requests to Reddit
+   - 🔒 Безопасность: надежная политика безопасности контента предотвращает запросы браузера к Reddit.
 
 developer: Spikecodes
 website: https://spike.codes/
