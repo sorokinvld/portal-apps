@@ -3,16 +3,16 @@ id: bitfeed
 category: Explorers
 name: Bitfeed
 version: "2.3.4"
-tagline: A beautiful mempool visualizer and block explorer
+tagline: Красивый визуализатор мемпула и обозреватель блоков
 description: >-
-  A self-hosted version of Bitfeed - the open source mempool visualizer & block
-  explorer available at https://bitfeed.live.
+  Самостоятельная версия Bitfeed — визуализатора и блока памяти с открытым исходным кодом.
+   Проводник доступен по адресу https://bitfeed.live.
 
 
-  Watch as new transactions drop into your node's mempool, before being packaged into newly mined blocks.
+   Наблюдайте за тем, как новые транзакции попадают в мемпул вашего узла, а затем упаковываются во вновь добытые блоки.
 
 
-  Monitor Bitcoin network activity, explore blocks and transactions, or simply enjoy a soothing Bitcoin screensaver.
+   Отслеживайте активность сети Биткойн, исследуйте блоки и транзакции или просто наслаждайтесь успокаивающей заставкой Биткойн.
 developer: Mononaut
 website: https://monospace.live
 dependencies:
