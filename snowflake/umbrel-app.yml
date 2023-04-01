@@ -3,14 +3,12 @@ id: snowflake
 category: Networking
 name: Tor Snowflake Proxy
 version: "2.4.1"
-tagline: Help defeat internet censorship
+tagline: Помогите победить интернет-цензуру
 description: >-
-  Snowflake is a system to defeat internet censorship. People who are
-  censored can use Snowflake to access the internet. Their connection goes
-  through Snowflake proxies, which are run by volunteers.
+  Snowflake — это система для преодоления интернет-цензуры. Люди, подвергшиеся цензуре, могут использовать Snowflake для доступа в Интернет. Их соединение проходит через прокси-серверы Snowflake, которыми управляют добровольцы.
 
 
-  If your internet access is not censored, you should consider running a Snowflake proxy to help users in censored networks. There is no need to worry about which websites people are accessing through your proxy. Their visible browsing IP address will match their Tor exit node, not yours.
+   Если ваш доступ в Интернет не подвергается цензуре, вам следует рассмотреть возможность запуска прокси-сервера Snowflake, чтобы помочь пользователям в цензурированных сетях. Вам не нужно беспокоиться о том, какие веб-сайты люди получают доступ через ваш прокси. Их видимый IP-адрес для просмотра будет соответствовать их выходному узлу Tor, а не вашему.
 developer: The Tor Project, Inc.
 website: https://snowflake.torproject.org/
 dependencies: []
