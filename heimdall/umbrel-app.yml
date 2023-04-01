@@ -1,24 +1,24 @@
 manifestVersion: 1
 id: heimdall
 name: Heimdall
-tagline: Organize your most used web sites in a simple way
+tagline: Организуйте свои наиболее часто используемые веб-сайты простым способом
 category: Productivity
 version: "2.5.5"
 port: 7392
 description: >-
-  Heimdall is a dashboard for all your web applications. It doesn't need to be limited to applications though, you can add links to anything you like.
+  Heimdall — это панель инструментов для всех ваших веб-приложений. Однако она не только для приложений, вы можете добавлять ссылки на все, что вам нравится.
 
   
-  Heimdall is an elegant solution to organise all your web applications. It’s dedicated to this purpose so you won’t lose your links in a sea of bookmarks.
+   Heimdall — элегантное решение для организации всех ваших веб-приложений. Оно предназначено для того, чтобы вы не потеряли свои ссылки в море закладок.
 
   
-  Why not use it as your browser start page? It even has the ability to include a search bar using either Google, Bing or DuckDuckGo.
+   Почему бы не использовать его в качестве стартовой страницы браузера? У него даже есть возможность включить панель поиска с помощью Google, Bing или DuckDuckGo.
 
   
-  You can use the app to link to any site or application, but Foundation apps will auto fill in the icon for the app and supply a default color for the tile. In addition Enhanced apps allow you provide details to an apps API, allowing you to view live stats directly on the dashboad. For example, the NZBGet and Sabnzbd Enhanced apps will display the queue size and download speed while something is downloading.
+   Вы можете использовать приложение для ссылки на любой сайт или приложение, но приложения Foundation автоматически добавляет значок приложения и выбирает цвет по умолчанию. Кроме того, расширенные приложения позволяют вам предоставлять подробную информацию API приложений, что позволяет вам просматривать статистику в реальном времени непосредственно на панели инструментов. Например, приложения NZBGet и Sabnzbd Enhanced будут отображать размер очереди и скорость загрузки во время загрузки чего-либо.
 
   
-  Supported applications are recognized by the title of the application as entered in the title field when adding an application. For example, to add a link to pfSense, begin by typing "p" in the title field and then select "pfSense" from the list of supported applications.
+   Поддерживаемые приложения распознаются по названию приложения, введенному в поле заголовка при добавлении приложения. Например, чтобы добавить ссылку на pfSense, начните с ввода «p» в поле заголовка, а затем выберите «pfSense» из списка поддерживаемых приложений.
 developer: LinuxServer.io
 website: https://heimdall.site
 repo: https://github.com/linuxserver/Heimdall
