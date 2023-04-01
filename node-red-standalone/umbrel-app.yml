@@ -3,19 +3,18 @@ id: node-red-standalone
 category: Automation
 name: "Node-RED"
 version: "2.2.2-12"
-tagline: Wire together the Internet of Things
+tagline: Объединяет устройства IoT
 description: >-
-  Node-RED is a visual programming tool for wiring together hardware
-  devices, APIs and online services in new and interesting ways.
+  Node-RED — это инструмент визуального программирования для объединения аппаратных устройств, API и онлайн-сервисов новыми и интересными способами.
 
 
-  It provides a browser-based editor that makes it easy to wire together flows using the wide range of nodes in the palette that can be deployed to its runtime in a single-click. A built-in library allows you to save useful functions, templates or flows for re-use.
+   Он предоставляет редактор на основе браузера, который позволяет легко связывать потоки вместе, используя широкий диапазон узлов в палитре, которые можно развернуть в среде выполнения одним щелчком мыши. Встроенная библиотека позволяет сохранять полезные функции, шаблоны или потоки для повторного использования.
 
 
-  The flows created in Node-RED are stored using JSON which can be easily imported and exported for sharing with others. An online flow library allows you to share your best flows with the world.
+   Потоки, созданные в Node-RED, хранятся в формате JSON, который можно легко импортировать и экспортировать для совместного использования с другими. Онлайн-библиотека потоков позволяет вам делиться своими лучшими потоками со всем миром.
 
   
-  Note: If you would like your 'HTTP In' nodes to be accessible without authentication, then prepend your url with '/public/'. E.g. /public/do-something
+  Note: Если вы хотите, чтобы ваши узлы «HTTP In» были доступны без аутентификации, добавьте перед своим URL-адресом '/public/'. E.g. /public/do-something
 developer: OpenJS Foundation
 website: https://nodered.org
 dependencies: []
