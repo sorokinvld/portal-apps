@@ -3,13 +3,13 @@ id: agora
 category: Files
 name: Agora
 version: "0.1.2"
-tagline: Sell your files for Bitcoin
+tagline: Продать ваши файлы за Биткоин
 description: >-
-  Agora is a project that allows anyone to sell files on the web for
-  bitcoin using the Lightning Network.
+  Agora — это проект, который позволяет любому пользователю продавать файлы в сети интернет за биткойн с помощью Lightning Network.
 
 
-  Agora serves the contents of a local directory, providing file listings and downloads over HTTP. For example, you can point it at a directory full of PDFs, allowing users to browse and view the PDFs in their web browser. If agora is connected to an LND node, it can be configured to require Lightning Network payments for downloads.
+
+  Agora обслуживает содержимое локального каталога, предоставляя списки файлов и загружая их через HTTP. Например, вы можете указать ему каталог с PDF-файлами, что позволит пользователям просматривать их в своем веб-браузере. Если агора подключена к узлу LND, ее можно настроить на запрос оплаты за скачку через Lightning Network.
 developer: Casey Rodarmor & Sönke Hahn
 website: https://agora-org.github.io/agora/
 dependencies:
