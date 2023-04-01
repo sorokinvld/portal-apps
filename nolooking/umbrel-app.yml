@@ -3,22 +3,22 @@ id: nolooking
 category: Lightning Node Management 
 name: nolooking
 version: "0.2.2-alpha"
-tagline: Open all your channels in one transaction
+tagline: Откройте все свои каналы за одну транзакцию
 description: >-
-  Nolooking leverages Pay-to-Endpoint (payjoin) to negotiate a channel open for your lightning node, initiated by any BIP78 supporting wallet.
+ Nolook использует Pay-to-Endpoint (payjoin) для согласования канала, открытого для вашего узла Lightning, инициированного любым кошельком, поддерживающим BIP78.
 
 
-  You can open multiple lightning channels in a single payment, improving privacy, saving on transaction fees and wait time.
+   Вы можете открыть несколько каналов Lightning за один платеж, улучшив конфиденциальность, сэкономив на комиссиях за транзакции и времени ожидания.
 
 
-  Read the article about Lightning Powered PayJoin: https://chaincase.app/words/lightning-payjoin to hear all the benefits!
+   Прочитайте статью о Lightning Powered PayJoin: https://chaincase.app/words/lightning-payjoin, чтобы узнать обо всех преимуществах!
 
 
-  Please note that nolooking is still in early development. By using nolooking, you hold all responsibility for any loss of funds or other grievances which may arise. We are rapidly iterating on this product, feedback and contributions are strongly appreciated.
+   Обратите внимание, что nolooking все еще находится на ранней стадии разработки. Используя nolooking, вы несете всю ответственность за любую потерю средств или другие претензии, которые могут возникнуть. Мы быстро дорабатываем этот продукт, отзывы и вклад высоко ценятся.
 releaseNotes: >-
-  - Recommend outbound nodes to open channels with.
+  - Рекомендовать исходящие узлы для открытия каналов.
 
-  - Display payjoin errors in app.
+   - Показать ошибки payjoin в приложении.
 developer: nolooking
 website: https://nolooking.chaincase.app
 dependencies:
