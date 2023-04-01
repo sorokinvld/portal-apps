@@ -3,23 +3,19 @@ id: satsale
 category: Finance
 name: SatSale
 version: "0.1.13-build-1"
-tagline: Lightweight Bitcoin payment processor
+tagline: Платежная система Биткойн
 description: >-
-  SatSale is a simple, easily deployable, lightweight Bitcoin payment
-  processor that connects to your own Bitcoin node. You can use SatSale to
-  instantly turn your Umbrel into a point-of-sale (settings under /admin).
-  SatSale can process donations from your supporters, facilitating direct
-  peer-to-peer payments without any middleman and greater privacy than reusing
-  donation addresses.
+  SatSale — это простой, легко развертываемый и легкая платежная система Биткойн, которая подключается к вашему собственному узлу Биткойн. Вы можете использовать SatSale, чтобы мгновенно превратить свой Umbrel в точку продаж (настройки в /admin).
+   SatSale может обрабатывать пожертвования от ваших сторонников, облегчая прямые одноранговые платежи без посредников и обеспечивая большую конфиденциальность, чем повторное использование адресов для пожертвований.
 
 
-  Host your own Bitcoin payment gateway for Woocommerce without a middleman or custodian, allowing you to turn any wordpress site into a bitcoin-accepting store.
+   Разместите свою собственную платежную систему Биткойн для Woocommerce без посредников, что позволит вам превратить любой сайт WordPress в магазин, принимающий Биткоины.
 
 
-  This Umbrel app contains a subset of the features we have in the works for SatSale, but will push updates out as they are ready. Check out the website and GitHub for more!
+   Это приложение Umbrel содержит часть функций, которые мы разрабатываем для SatSale, но будем выпускать обновления по мере их готовности. Посетите веб-сайт и GitHub, чтобы узнать больше!
 
 
-  Please note that SatSale is still in early development. As such, we are not responsible for any loss of funds, vulnerabilities, or any other grievances which arise. Always confirm large payments manually and use cold storage as much as possible. Please contribute if you can!
+   Обратите внимание, что SatSale все еще находится на ранней стадии разработки. Таким образом, мы не несем ответственности за любые потери средств, уязвимости или любые другие претензии, которые возникают. Всегда подтверждайте крупные платежи вручную и максимально используйте холодное хранилище. Пожалуйста, внесите свой вклад, если можете!
 developer: Nick Farrow
 website: https://satsale.org
 dependencies:
