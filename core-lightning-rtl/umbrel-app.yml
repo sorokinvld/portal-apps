@@ -3,33 +3,31 @@ id: core-lightning-rtl
 category: Lightning Node Management
 name: Ride The Lightning (Core Lightning)
 version: "0.13.2-beta"
-tagline: Manage your Core Lightning node with RTL
+tagline: Управляйте своим узлом Core Lightning с помощью RTL
 description: >-
-  This version of RTL is specifically configured to use your Core Lightning node.
+  Эта версия RTL специально настроена для использования вашего узла Core Lightning.
   
-  RTL provides a full function, device agnostic, web user interface to help
-  manage lightning node operation. It enables full control over your lightning
-  node with rich functionality for Bitcoin base layer and Lightning Network.
-  Some cool features available on RTL are:
+   RTL предоставляет полнофункциональный независимый от устройства пользовательский веб-интерфейс, помогающий управлять работой узла Lightning. Он обеспечивает полный контроль над вашим узлом молнии с богатой функциональностью для базового уровня Биткойн и сети Lightning.
+  Некоторые интересные функции, доступные в RTL:
 
 
-  - Rich dashboard with two layout options
+  - Богатая панель инструментов с двумя вариантами макета
 
-  - Send/Receive funds on-chain
+   - Отправляйте / получайте средства по цепочке
 
-  - Rich channel management with advanced features like balance score, circular re-balancing etc.
+   - Богатое управление каналами с расширенными функциями, такими как оценка баланса, циклическая перебалансировка и т. д.
 
-  - Payments and Invoice management with QR codes
+   - Платежи и управление счетами с помощью QR-кодов
 
-  - Routing analysis for the payments forwarded
+   - Анализ маршрутизации отправленных платежей
 
-  - Channel backups
+   - резервные копии каналов
 
-  - Detailed reports on routing and transaction history
+   - Подробные отчеты по маршрутизации и истории транзакций
 
-  - Optional Loop interface for submarine swaps
+   - Дополнительный интерфейс Loop для обмена подводными лодками
 
-  - Customizable UI with multiple color schemes and dark/light modes
+   - Настраиваемый пользовательский интерфейс с несколькими цветовыми схемами и темными/светлыми режимами.
 developer: Shahana and Suheb
 website: https://github.com/Ride-The-Lightning/RTL
 dependencies:
