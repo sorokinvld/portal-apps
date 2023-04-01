@@ -3,14 +3,11 @@ id: bluewallet
 category: Wallet Servers
 name: BlueWallet Lightning
 version: "1.4.1"
-tagline: Connect BlueWallet to your Lightning node
+tagline: Подключите BlueWallet к вашему Lightning узлу
 description: >-
-  Run BlueWallet in the most private and secure way possible by
-  removing 3rd parties and connecting it directly to your Umbrel's Lightning
-  node.
+  Запустите BlueWallet максимально исключив участие третьих сторон и подключив его напрямую к узлу Lightning вашего Umbrel.
 
-
-  You can pair multiple BlueWallet accounts, so your friends and family can pair their BlueWallet with your Umbrel for a trust-minimized setup.
+  Вы можете связать несколько учетных записей BlueWallet, чтобы ваши друзья и родственники могли подключить свой BlueWallet к вашему Umbrel в максимально безопасной среде.
 developer: BlueWallet
 website: https://lndhub.io
 dependencies:
