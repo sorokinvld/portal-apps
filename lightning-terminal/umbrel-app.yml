@@ -3,37 +3,34 @@ id: lightning-terminal
 category: Lightning Node Management
 name: Lightning Terminal
 version: "0.8.6-alpha"
-tagline: The easiest way to manage channel liquidity
+tagline: Самый простой способ управлять ликвидностью канала
 description: >-
-  Lightning Terminal is the easiest way to manage inbound and
-  outbound liquidity on the Lightning Network. Keep your channels open and the
-  funds flowing. It provides a visual interface for interacting with your
-  channels and balances using Loop. 
+  Lightning Terminal — это самый простой способ управления входящей и исходящей ликвидностью в Lightning Network. Держите ваши каналы открытыми. Он предоставляет визуальный интерфейс для взаимодействия с вашими каналами и балансами с помощью Loop.
 
 
-  New: Introducing Lightning Pool, a marketplace for Lightning channels. You can now earn sats by opening new channels to those looking to receive funds on Lightning for a set period of time, or rent a channel to start accepting payments instantly. Join the marketplace and start putting your Bitcoin to work.
+   Новое: Представляем Lightning Pool, торговую площадку для каналов Lightning. Теперь вы можете зарабатывать сатоши, открывая новые каналы для тех, кто хочет получать средства на Lightning в течение установленного периода времени, или арендовать канал, чтобы начать принимать платежи мгновенно. Присоединяйтесь к рынку и начните использовать свой биткойн.
 
 
-  Why use Pool?
+   Зачем использовать пул?
 
-  - Earn a return on Lightning capital
+   - Получайте доход от капитала Lightning
 
-  - Rent a channel and start accepting payments instantly
+   - Арендуйте канал и начните принимать платежи мгновенно
 
-  - Open channels for less with transaction batching
+   - Открывайте каналы для меньших затрат благодаря пакетной обработке транзакций
 
 
-  Why use Loop?
+   Зачем использовать Loop?
 
-  - Add "inbound liquidity" to receive payments
+   - Добавить «входящую ликвидность» для приема платежей
 
-  - Reduce transaction fees by recycling and reusing Lightning channels
+   - Уменьшите комиссию за транзакции за счет переработки и повторного использования каналов Lightning.
 
-  - Send funds to and from users or services that aren't yet Lightning enabled
+   - Отправляйте средства пользователям или службам, для которых еще не включена технология Lightning, и обратно.
 
-  - Configurable wait times and "batching" allow for further fee savings
+   - Настраиваемое время ожидания и «пакетная обработка» позволяют дополнительно сэкономить на оплате
 
-  - Refill and offload funds from any number of Lightning channels in a single on-chain transaction
+   - Пополняйте и выгружайте средства из любого количества каналов Lightning за одну транзакцию внутри сети.
 developer: Lightning Labs
 website: https://lightning.engineering
 dependencies:
