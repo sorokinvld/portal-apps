@@ -3,7 +3,7 @@ id: nostr-relay
 category: Social
 name: Nostr Relay
 version: "1.0.0"
-tagline: Backup all your Nostr activity with your private relay
+tagline: Сделайте резервную копию всей вашей активности Nostr с помощью вашего частного ретранслятора
 description: >
   Introducing Nostr Relay — an official app by Umbrel.
 
